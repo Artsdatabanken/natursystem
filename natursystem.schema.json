@@ -1,0 +1,246 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "farge": {
+            "type": "string"
+          },
+          "foreldre": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "ingress": {
+            "type": "string"
+          },
+          "kode": {
+            "type": "string"
+          },
+          "relasjon": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "erSubset": {
+                  "type": "boolean"
+                },
+                "kant": {
+                  "type": "string"
+                },
+                "kantRetur": {
+                  "type": "string"
+                },
+                "kode": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "erSubset",
+                "kant",
+                "kantRetur",
+                "kode"
+              ]
+            }
+          },
+          "tittel": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              }
+            }
+          },
+          "sortering": {
+            "type": "number"
+          },
+          "infoUrl": {
+            "type": "string"
+          },
+          "kart": {
+            "type": "object",
+            "properties": {
+              "format": {
+                "type": "object",
+                "properties": {
+                  "raster_gradient": {
+                    "type": "object",
+                    "properties": {
+                      "intervall": {
+                        "type": "object",
+                        "properties": {
+                          "normalisertVerdi": {
+                            "type": "array",
+                            "items": {
+                              "type": "number"
+                            }
+                          },
+                          "original": {
+                            "type": "array",
+                            "items": {
+                              "type": "number"
+                            }
+                          }
+                        }
+                      },
+                      "visning": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "måleenhet": {
+            "type": "string"
+          },
+          "autorkode": {
+            "type": "string"
+          },
+          "intervall": {
+            "type": "object",
+            "properties": {
+              "max": {
+                "type": "number"
+              },
+              "maxTekst": {
+                "type": "string"
+              },
+              "min": {
+                "type": "number"
+              },
+              "minTekst": {
+                "type": "string"
+              },
+              "måleenhet": {
+                "type": "string"
+              }
+            },
+            "items": {
+              "type": "object",
+              "properties": {
+                "maxTekst": {
+                  "type": "string"
+                },
+                "min": {
+                  "type": "number"
+                },
+                "minTekst": {
+                  "type": "string"
+                },
+                "måleenhet": {
+                  "type": "string"
+                },
+                "tittel": {
+                  "type": "string"
+                },
+                "max": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "maxTekst",
+                "min",
+                "minTekst",
+                "måleenhet",
+                "max",
+                "tittel"
+              ]
+            }
+          },
+          "type": {
+            "type": "string"
+          },
+          "farge0": {
+            "type": "string"
+          },
+          "palett": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "color": {
+                  "type": "string"
+                },
+                "level": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "color",
+                "level"
+              ]
+            }
+          },
+          "nivå": {
+            "type": "string"
+          },
+          "normalisertVerdi": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            }
+          }
+        },
+        "required": [
+          "foreldre",
+          "kode",
+          "relasjon",
+          "tittel",
+          "farge",
+          "ingress",
+          "sortering",
+          "autorkode",
+          "intervall",
+          "infoUrl",
+          "kart",
+          "måleenhet",
+          "type",
+          "farge0",
+          "nivå",
+          "normalisertVerdi"
+        ]
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "tittel": {
+          "type": "string"
+        },
+        "produsertUtc": {
+          "type": "string"
+        },
+        "utgiver": {
+          "type": "string"
+        },
+        "url": {
+          "type": "null"
+        },
+        "tool": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          }
+        },
+        "elementer": {
+          "type": "number"
+        }
+      }
+    }
+  }
+}
