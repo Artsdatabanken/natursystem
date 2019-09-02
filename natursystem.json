@@ -105215,27 +105215,12 @@
       }
     },
     {
-      "foreldre": [],
-      "kode": "~",
-      "tittel": {
-        "nb": "Katalog"
-      }
-    },
-    {
-      "foreldre": [
-        "~"
-      ],
-      "kode": "NN",
-      "tittel": {
-        "nb": "Natur i Norge"
-      }
-    },
-    {
       "farge": "hsl(120, 40%, 70%)",
-      "foreldre": [
-        "NN"
-      ],
+      "foreldre": [],
       "infoUrl": "https://www.artsdatabanken.no/Pages/222921",
+      "kart": {
+        "målestokk": 20000
+      },
       "kode": "NN-NA",
       "sortering": 1,
       "tittel": {
@@ -105457,13 +105442,14 @@
   ],
   "meta": {
     "tittel": "Natursystem",
-    "produsertUtc": "2019-09-01T16:47:00.794Z",
+    "produsertUtc": "2019-09-02T10:39:02.518Z",
     "utgiver": "Artsdatabanken",
-    "url": null,
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/natursystem.json",
     "tool": {
       "name": "natursystem-lastejobb",
       "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme"
     },
-    "elementer": 4195
-  }
+    "elementer": 4193
+  },
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/natursystem.schema.json#"
 }
