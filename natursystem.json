@@ -83989,7 +83989,8 @@
       "kart": {},
       "kode": "NN-NA-BS-1AR-A-0-0",
       "tittel": {
-        "nb": "Skogsmark uten tresjikt (1AG-A-0 ≤ 3; det vil si arealandel innenfor trærnes kroneperiferi < 10 %)"
+        "la": "1AG-A-0 ≤ 3; det vil si arealandel innenfor trærnes kroneperiferi < 10 %",
+        "nb": "Skogsmark uten tresjikt"
       }
     },
     {
@@ -84262,7 +84263,8 @@
       "kode": "NN-NA-BS-1AR-A-AB",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Edelgranslekta (Abies spp.)"
+        "la": "Abies spp.",
+        "nb": "Relativ sammensetning av tresjiktet - Edelgranslekta"
       }
     },
     {
@@ -84325,7 +84327,8 @@
       "kode": "NN-NA-BS-1AR-A-ACPL",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Spisslønn (Acer platanoides)"
+        "la": "Acer platanoides",
+        "nb": "Relativ sammensetning av tresjiktet - Spisslønn"
       }
     },
     {
@@ -84388,7 +84391,8 @@
       "kode": "NN-NA-BS-1AR-A-ACPS",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Platanlønn (Acer pseudoplatanus)"
+        "la": "Acer pseudoplatanus",
+        "nb": "Relativ sammensetning av tresjiktet - Platanlønn"
       }
     },
     {
@@ -84451,7 +84455,8 @@
       "kode": "NN-NA-BS-1AR-A-AEHI",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Hestekastanje (Aesculus hippocastanum)"
+        "la": "Aesculus hippocastanum",
+        "nb": "Relativ sammensetning av tresjiktet - Hestekastanje"
       }
     },
     {
@@ -84514,7 +84519,8 @@
       "kode": "NN-NA-BS-1AR-A-ALGL",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Svartor (Alnus glutinosus)"
+        "la": "Alnus glutinosus",
+        "nb": "Relativ sammensetning av tresjiktet - Svartor"
       }
     },
     {
@@ -84577,7 +84583,8 @@
       "kode": "NN-NA-BS-1AR-A-ALIN",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Gråor (Alnus incana)"
+        "la": "Alnus incana",
+        "nb": "Relativ sammensetning av tresjiktet - Gråor"
       }
     },
     {
@@ -84653,7 +84660,8 @@
       "kode": "NN-NA-BS-1AR-A-BE",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Bjørkeslekta (Betula spp.)"
+        "la": "Betula spp.",
+        "nb": "Relativ sammensetning av tresjiktet - Bjørkeslekta"
       }
     },
     {
@@ -84716,7 +84724,8 @@
       "kode": "NN-NA-BS-1AR-A-BEPE",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Hengebjørk (Betula pendula)"
+        "la": "Betula pendula",
+        "nb": "Relativ sammensetning av tresjiktet - Hengebjørk"
       }
     },
     {
@@ -84779,7 +84788,8 @@
       "kode": "NN-NA-BS-1AR-A-BEPU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Bjørk (Betula pubescens)"
+        "la": "Betula pubescens",
+        "nb": "Relativ sammensetning av tresjiktet - Bjørk"
       }
     },
     {
@@ -84842,7 +84852,8 @@
       "kode": "NN-NA-BS-1AR-A-BEVU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Berberis (Berberis vulgaris)"
+        "la": "Berberis vulgaris",
+        "nb": "Relativ sammensetning av tresjiktet - Berberis"
       }
     },
     {
@@ -84905,7 +84916,8 @@
       "kode": "NN-NA-BS-1AR-A-COAV",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Hassel (Corylus avellana)"
+        "la": "Corylus avellana",
+        "nb": "Relativ sammensetning av tresjiktet - Hassel"
       }
     },
     {
@@ -84968,7 +84980,8 @@
       "kode": "NN-NA-BS-1AR-A-CR",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Hagtorn (Crataegus spp.)"
+        "la": "Crataegus spp.",
+        "nb": "Relativ sammensetning av tresjiktet - Hagtorn"
       }
     },
     {
@@ -85031,7 +85044,8 @@
       "kode": "NN-NA-BS-1AR-A-CYSC",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Gyvel (Cytisus scoparius)"
+        "la": "Cytisus scoparius",
+        "nb": "Relativ sammensetning av tresjiktet - Gyvel"
       }
     },
     {
@@ -85157,7 +85171,8 @@
       "kode": "NN-NA-BS-1AR-A-FASY",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Bøk (Fagus sulvatica)"
+        "la": "Fagus sulvatica",
+        "nb": "Relativ sammensetning av tresjiktet - Bøk"
       }
     },
     {
@@ -85220,7 +85235,8 @@
       "kode": "NN-NA-BS-1AR-A-FREX",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Ask (Fraxinus excelsior)"
+        "la": "Fraxinus excelsior",
+        "nb": "Relativ sammensetning av tresjiktet - Ask"
       }
     },
     {
@@ -85283,7 +85299,8 @@
       "kode": "NN-NA-BS-1AR-A-FUAL",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Trollhegg (Frangula alnus)"
+        "la": "Frangula alnus",
+        "nb": "Relativ sammensetning av tresjiktet - Trollhegg"
       }
     },
     {
@@ -85346,7 +85363,8 @@
       "kode": "NN-NA-BS-1AR-A-HIRH",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Tindved (Hippophae rhamnoides)"
+        "la": "Hippophae rhamnoides",
+        "nb": "Relativ sammensetning av tresjiktet - Tindved"
       }
     },
     {
@@ -85409,7 +85427,8 @@
       "kode": "NN-NA-BS-1AR-A-ILAQ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Kristtorn (Ilex aquifolia)"
+        "la": "Ilex aquifolia",
+        "nb": "Relativ sammensetning av tresjiktet - Kristtorn"
       }
     },
     {
@@ -85472,7 +85491,8 @@
       "kode": "NN-NA-BS-1AR-A-JUCO",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Einer (Juniperus communis)"
+        "la": "Juniperus communis",
+        "nb": "Relativ sammensetning av tresjiktet - Einer"
       }
     },
     {
@@ -85598,7 +85618,8 @@
       "kode": "NN-NA-BS-1AR-A-LA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Lerk (Larix spp.)"
+        "la": "Larix spp.",
+        "nb": "Relativ sammensetning av tresjiktet - Lerk"
       }
     },
     {
@@ -85661,7 +85682,8 @@
       "kode": "NN-NA-BS-1AR-A-LIVU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Liguster (Ligustrum vulgare)"
+        "la": "Ligustrum vulgare",
+        "nb": "Relativ sammensetning av tresjiktet - Liguster"
       }
     },
     {
@@ -85724,7 +85746,8 @@
       "kode": "NN-NA-BS-1AR-A-LOXY",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Leddved (Lonicera xylosteum)"
+        "la": "Lonicera xylosteum",
+        "nb": "Relativ sammensetning av tresjiktet - Leddved"
       }
     },
     {
@@ -85787,7 +85810,8 @@
       "kode": "NN-NA-BS-1AR-A-MASY",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Eple (Malus sylvestris)"
+        "la": "Malus sylvestris",
+        "nb": "Relativ sammensetning av tresjiktet - Eple"
       }
     },
     {
@@ -85850,7 +85874,8 @@
       "kode": "NN-NA-BS-1AR-A-PIAB",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Gran (Picea abies)"
+        "la": "Picea abies",
+        "nb": "Relativ sammensetning av tresjiktet - Gran"
       }
     },
     {
@@ -85913,7 +85938,8 @@
       "kode": "NN-NA-BS-1AR-A-PIZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Innførte gran-arter (Picea spp., inkl. sitkagran P. sitchensis)"
+        "la": "Picea spp., inkl. sitkagran P. sitchensis",
+        "nb": "Relativ sammensetning av tresjiktet - Innførte gran-arter"
       }
     },
     {
@@ -85976,7 +86002,8 @@
       "kode": "NN-NA-BS-1AR-A-POTR",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Osp (Populus tremula)"
+        "la": "Populus tremula",
+        "nb": "Relativ sammensetning av tresjiktet - Osp"
       }
     },
     {
@@ -86039,7 +86066,8 @@
       "kode": "NN-NA-BS-1AR-A-POZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Innførte poppel-arter (Populus spp.)"
+        "la": "Populus spp.",
+        "nb": "Relativ sammensetning av tresjiktet - Innførte poppel-arter"
       }
     },
     {
@@ -86102,7 +86130,8 @@
       "kode": "NN-NA-BS-1AR-A-PRCE",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Kirsebær og morell (Prunus subg. Cerasus)"
+        "la": "Prunus subg. Cerasus",
+        "nb": "Relativ sammensetning av tresjiktet - Kirsebær og morell"
       }
     },
     {
@@ -86165,7 +86194,8 @@
       "kode": "NN-NA-BS-1AR-A-PRDO",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Plomme (Prunus domestica)"
+        "la": "Prunus domestica",
+        "nb": "Relativ sammensetning av tresjiktet - Plomme"
       }
     },
     {
@@ -86228,7 +86258,8 @@
       "kode": "NN-NA-BS-1AR-A-PRPA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Hegg (Prunus padus)"
+        "la": "Prunus padus",
+        "nb": "Relativ sammensetning av tresjiktet - Hegg"
       }
     },
     {
@@ -86291,7 +86322,8 @@
       "kode": "NN-NA-BS-1AR-A-PRSP",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Slåpetorn (Prunus spinosa)"
+        "la": "Prunus spinosa",
+        "nb": "Relativ sammensetning av tresjiktet - Slåpetorn"
       }
     },
     {
@@ -86354,7 +86386,8 @@
       "kode": "NN-NA-BS-1AR-A-PUSY",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Furu (Pinus sylvestris)"
+        "la": "Pinus sylvestris",
+        "nb": "Relativ sammensetning av tresjiktet - Furu"
       }
     },
     {
@@ -86417,7 +86450,8 @@
       "kode": "NN-NA-BS-1AR-A-PUZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Innførte furu-arter (Pinus spp.)"
+        "la": "Pinus spp.",
+        "nb": "Relativ sammensetning av tresjiktet - Innførte furu-arter"
       }
     },
     {
@@ -86480,7 +86514,8 @@
       "kode": "NN-NA-BS-1AR-A-PYCO",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Pære (Pyrus communis)"
+        "la": "Pyrus communis",
+        "nb": "Relativ sammensetning av tresjiktet - Pære"
       }
     },
     {
@@ -86543,7 +86578,8 @@
       "kode": "NN-NA-BS-1AR-A-QU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Eikeslekta (Quercus sp.)"
+        "la": "Quercus sp.",
+        "nb": "Relativ sammensetning av tresjiktet - Eikeslekta"
       }
     },
     {
@@ -86606,7 +86642,8 @@
       "kode": "NN-NA-BS-1AR-A-RDZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Rhododendron (innførte, buskformete Rhododendron-arter)"
+        "la": "Innførte, buskformete Rhododendron-arter",
+        "nb": "Relativ sammensetning av tresjiktet - Rhododendron"
       }
     },
     {
@@ -86669,7 +86706,8 @@
       "kode": "NN-NA-BS-1AR-A-RUZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Bjørnebær (Rubus spp., ‘R. fruticosus-gruppa)"
+        "la": "Rubus spp., ‘R. fruticosus-gruppa",
+        "nb": "Relativ sammensetning av tresjiktet - Bjørnebær"
       }
     },
     {
@@ -86732,7 +86770,8 @@
       "kode": "NN-NA-BS-1AR-A-SA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Pil- og vierarter (Salix spp.)"
+        "la": "Salix spp.",
+        "nb": "Relativ sammensetning av tresjiktet - Pil- og vierarter"
       }
     },
     {
@@ -86795,7 +86834,8 @@
       "kode": "NN-NA-BS-1AR-A-SACA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Selje (Salix caprea)"
+        "la": "Salix caprea",
+        "nb": "Relativ sammensetning av tresjiktet - Selje"
       }
     },
     {
@@ -86858,7 +86898,8 @@
       "kode": "NN-NA-BS-1AR-A-SADA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Doggpil (Salix daphnoides)"
+        "la": "Salix daphnoides",
+        "nb": "Relativ sammensetning av tresjiktet - Doggpil"
       }
     },
     {
@@ -86921,7 +86962,8 @@
       "kode": "NN-NA-BS-1AR-A-SAPE",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Istervier (Salix pentandra)"
+        "la": "Salix pentandra",
+        "nb": "Relativ sammensetning av tresjiktet - Istervier"
       }
     },
     {
@@ -86984,7 +87026,8 @@
       "kode": "NN-NA-BS-1AR-A-SATR",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Mandelpil (Salix triandra)"
+        "la": "Salix triandra",
+        "nb": "Relativ sammensetning av tresjiktet - Mandelpil"
       }
     },
     {
@@ -87047,7 +87090,8 @@
       "kode": "NN-NA-BS-1AR-A-SAZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Innførte pilearter (Salix spp.)"
+        "la": "Salix spp.",
+        "nb": "Relativ sammensetning av tresjiktet - Innførte pilearter"
       }
     },
     {
@@ -87110,7 +87154,8 @@
       "kode": "NN-NA-BS-1AR-A-SM",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Hyll (Sambucus spp.)"
+        "la": "Sambucus spp.",
+        "nb": "Relativ sammensetning av tresjiktet - Hyll"
       }
     },
     {
@@ -87173,7 +87218,8 @@
       "kode": "NN-NA-BS-1AR-A-SOAU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Rogn (Sorbus aucuparia)"
+        "la": "Sorbus aucuparia",
+        "nb": "Relativ sammensetning av tresjiktet - Rogn"
       }
     },
     {
@@ -87236,7 +87282,8 @@
       "kode": "NN-NA-BS-1AR-A-SOZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Asal (Sorbus-arter unntatt rogn)"
+        "la": "Sorbus-arter unntatt rogn",
+        "nb": "Relativ sammensetning av tresjiktet - Asal"
       }
     },
     {
@@ -87299,7 +87346,8 @@
       "kode": "NN-NA-BS-1AR-A-SYVU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Syrin (Syringa vulgaris)"
+        "la": "Syringa vulgaris",
+        "nb": "Relativ sammensetning av tresjiktet - Syrin"
       }
     },
     {
@@ -87362,7 +87410,8 @@
       "kode": "NN-NA-BS-1AR-A-TABA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Barlind (Taxus baccata)"
+        "la": "Taxus baccata",
+        "nb": "Relativ sammensetning av tresjiktet - Barlind"
       }
     },
     {
@@ -87425,7 +87474,8 @@
       "kode": "NN-NA-BS-1AR-A-TICO",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Lind (Tilia cordata)"
+        "la": "Tilia cordata",
+        "nb": "Relativ sammensetning av tresjiktet - Lind"
       }
     },
     {
@@ -87488,7 +87538,8 @@
       "kode": "NN-NA-BS-1AR-A-ULGL",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Alm (Ulmus glabra)"
+        "la": "Ulmus glabra",
+        "nb": "Relativ sammensetning av tresjiktet - Alm"
       }
     },
     {
@@ -87614,7 +87665,8 @@
       "kode": "NN-NA-BS-1AR-A-VIOP",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av tresjiktet - Krossved (Viburnus opulus)"
+        "la": "Viburnus opulus",
+        "nb": "Relativ sammensetning av tresjiktet - Krossved"
       }
     },
     {
@@ -87677,7 +87729,8 @@
       "kode": "NN-NA-BS-1AR-C-G",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Dominans av grasvekster (graminider)"
+        "la": "Graminider",
+        "nb": "Dominans av grasvekster"
       }
     },
     {
@@ -88409,7 +88462,8 @@
       "kode": "NN-NA-BS-2BE-2",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Vulkansk bergart (volcanic rock)"
+        "en": "Volcanic rock",
+        "nb": "Vulkansk bergart"
       }
     },
     {
@@ -88422,7 +88476,8 @@
       "kode": "NN-NA-BS-2BE-3",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Sedimentær bergart (sedimentary rock)"
+        "en": "Sedimentary rock",
+        "nb": "Sedimentær bergart"
       }
     },
     {
@@ -88435,7 +88490,8 @@
       "kode": "NN-NA-BS-2BE-4",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Metamorf bergart (metamorphic rock)"
+        "en": "Metamorphic rock",
+        "nb": "Metamorf bergart"
       }
     },
     {
@@ -88448,7 +88504,8 @@
       "kode": "NN-NA-BS-2BE-1",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Dypbergart (plutonic rock)"
+        "en": "Plutonic rock",
+        "nb": "Dypbergart"
       }
     },
     {
@@ -88458,7 +88515,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-1",
       "tittel": {
-        "nb": "Alkalifeltspatgranitt (alkali feldspar granite)"
+        "en": "Alkali feldspar granite",
+        "nb": "Alkalifeltspatgranitt"
       }
     },
     {
@@ -88468,7 +88526,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-10",
       "tittel": {
-        "nb": "Larvikitt (larvikite)"
+        "en": "Larvikite",
+        "nb": "Larvikitt"
       }
     },
     {
@@ -88478,7 +88537,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-11",
       "tittel": {
-        "nb": "Kvartsdioritt (quartz diorite)"
+        "en": "Quartz diorite",
+        "nb": "Kvartsdioritt"
       }
     },
     {
@@ -88488,7 +88548,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-12",
       "tittel": {
-        "nb": "Dioritt (diorite)"
+        "en": "Diorite",
+        "nb": "Dioritt"
       }
     },
     {
@@ -88498,7 +88559,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-13",
       "tittel": {
-        "nb": "Gabbro (gabbro)"
+        "en": "Gabbro",
+        "nb": "Gabbro"
       }
     },
     {
@@ -88508,7 +88570,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-14",
       "tittel": {
-        "nb": "Noritt (norite)"
+        "en": "Norite",
+        "nb": "Noritt"
       }
     },
     {
@@ -88518,7 +88581,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-2",
       "tittel": {
-        "nb": "Granitt (granite)"
+        "en": "Granite",
+        "nb": "Granitt"
       }
     },
     {
@@ -88528,7 +88592,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-20",
       "tittel": {
-        "nb": "Nefelinførende bergart (nephelin-bearing rock)"
+        "en": "Nephelin-bearing rock",
+        "nb": "Nefelinførende bergart"
       }
     },
     {
@@ -88538,7 +88603,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-3",
       "tittel": {
-        "nb": "Granodioritt (granodiorite)"
+        "en": "Granodiorite",
+        "nb": "Granodioritt"
       }
     },
     {
@@ -88548,7 +88614,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-30",
       "tittel": {
-        "nb": "Peridotitt (peridotite)"
+        "en": "Peridotite",
+        "nb": "Peridotitt"
       }
     },
     {
@@ -88558,7 +88625,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-31",
       "tittel": {
-        "nb": "Dunitt (dunite)"
+        "en": "Dunite",
+        "nb": "Dunitt"
       }
     },
     {
@@ -88568,7 +88636,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-32",
       "tittel": {
-        "nb": "Harzburgitt (harzburgite)"
+        "en": "Harzburgite",
+        "nb": "Harzburgitt"
       }
     },
     {
@@ -88578,7 +88647,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-33",
       "tittel": {
-        "nb": "Wehrlitt (wehrlite)"
+        "en": "Wehrlite",
+        "nb": "Wehrlitt"
       }
     },
     {
@@ -88588,7 +88658,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-34",
       "tittel": {
-        "nb": "Lherzolitt (lherzolite)"
+        "en": "Lherzolite",
+        "nb": "Lherzolitt"
       }
     },
     {
@@ -88598,7 +88669,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-35",
       "tittel": {
-        "nb": "Websteritt (websterite)"
+        "en": "Websterite",
+        "nb": "Websteritt"
       }
     },
     {
@@ -88608,7 +88680,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-36",
       "tittel": {
-        "nb": "Pyroksenitt (pyroksenite)"
+        "en": "Pyroksenite",
+        "nb": "Pyroksenitt"
       }
     },
     {
@@ -88618,7 +88691,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-4",
       "tittel": {
-        "nb": "Tonalitt (tonalite)"
+        "en": "Tonalite",
+        "nb": "Tonalitt"
       }
     },
     {
@@ -88628,7 +88702,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-40",
       "tittel": {
-        "nb": "Charnockitt (charnockite)"
+        "en": "Charnockite",
+        "nb": "Charnockitt"
       }
     },
     {
@@ -88638,7 +88713,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-41",
       "tittel": {
-        "nb": "Mangeritt (mangerite)"
+        "en": "Mangerite",
+        "nb": "Mangeritt"
       }
     },
     {
@@ -88648,7 +88724,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-42",
       "tittel": {
-        "nb": "Enderbitt (enderbite)"
+        "en": "Enderbite",
+        "nb": "Enderbitt"
       }
     },
     {
@@ -88658,7 +88735,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-43",
       "tittel": {
-        "nb": "Anortositt (anorthosite)"
+        "en": "Anorthosite",
+        "nb": "Anortositt"
       }
     },
     {
@@ -88668,7 +88746,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-44",
       "tittel": {
-        "nb": "Karbonatitt (carbonatite)"
+        "en": "Carbonatite",
+        "nb": "Karbonatitt"
       }
     },
     {
@@ -88678,7 +88757,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-5",
       "tittel": {
-        "nb": "Trondhjemitt (trondhjemite)"
+        "en": "Trondhjemite",
+        "nb": "Trondhjemitt"
       }
     },
     {
@@ -88688,7 +88768,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-50",
       "tittel": {
-        "nb": "Diabas (diabase)"
+        "en": "Diabase",
+        "nb": "Diabas"
       }
     },
     {
@@ -88698,7 +88779,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-51",
       "tittel": {
-        "nb": "Lamprofyr (lamprophyre)"
+        "en": "Lamprophyre",
+        "nb": "Lamprofyr"
       }
     },
     {
@@ -88708,7 +88790,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-6",
       "tittel": {
-        "nb": "Alkalifeltspatsyenitt (alkali feldspar syenite)"
+        "en": "Alkali feldspar syenite",
+        "nb": "Alkalifeltspatsyenitt"
       }
     },
     {
@@ -88718,7 +88801,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-60",
       "tittel": {
-        "nb": "Pegmatitt (pegmatite)"
+        "en": "Pegmatite",
+        "nb": "Pegmatitt"
       }
     },
     {
@@ -88728,7 +88812,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-61",
       "tittel": {
-        "nb": "Aplitt (aplite)"
+        "en": "Aplite",
+        "nb": "Aplitt"
       }
     },
     {
@@ -88738,7 +88823,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-7",
       "tittel": {
-        "nb": "Syenitt (syenite)"
+        "en": "Syenite",
+        "nb": "Syenitt"
       }
     },
     {
@@ -88748,7 +88834,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-8",
       "tittel": {
-        "nb": "Monzonitt (monzonite)"
+        "en": "Monzonite",
+        "nb": "Monzonitt"
       }
     },
     {
@@ -88758,7 +88845,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-1-9",
       "tittel": {
-        "nb": "Monzodioritt (monzodiorite)"
+        "en": "Monzodiorite",
+        "nb": "Monzodioritt"
       }
     },
     {
@@ -88768,7 +88856,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-1",
       "tittel": {
-        "nb": "Ryolitt (rhyolite)"
+        "en": "Rhyolite",
+        "nb": "Ryolitt"
       }
     },
     {
@@ -88778,7 +88867,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-10",
       "tittel": {
-        "nb": "Trakytt (trachyte)"
+        "en": "Trachyte",
+        "nb": "Trakytt"
       }
     },
     {
@@ -88788,7 +88878,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-11",
       "tittel": {
-        "nb": "Rombeporfyr (rhombporphyry)"
+        "en": "Rhombporphyry",
+        "nb": "Rombeporfyr"
       }
     },
     {
@@ -88798,7 +88889,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-12",
       "tittel": {
-        "nb": "Latitt (latite)"
+        "en": "Latite",
+        "nb": "Latitt"
       }
     },
     {
@@ -88808,7 +88900,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-13",
       "tittel": {
-        "nb": "Andesitt (andesite)"
+        "en": "Andesite",
+        "nb": "Andesitt"
       }
     },
     {
@@ -88818,7 +88911,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-14",
       "tittel": {
-        "nb": "Mafisk vulkansk bergart (mafic volcanic rock)"
+        "en": "Mafic volcanic rock",
+        "nb": "Mafisk vulkansk bergart"
       }
     },
     {
@@ -88828,7 +88922,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-2",
       "tittel": {
-        "nb": "Ryodacitt (rhyodacite)"
+        "en": "Rhyodacite",
+        "nb": "Ryodacitt"
       }
     },
     {
@@ -88838,7 +88933,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-20",
       "tittel": {
-        "nb": "Basalt (basalt)"
+        "en": "Basalt",
+        "nb": "Basalt"
       }
     },
     {
@@ -88848,7 +88944,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-21",
       "tittel": {
-        "nb": "Komatiitt (komatiite)"
+        "en": "Komatiite",
+        "nb": "Komatiitt"
       }
     },
     {
@@ -88858,7 +88955,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-22",
       "tittel": {
-        "nb": "Nefelinførende lava (nepheline-bearing lava)"
+        "en": "Nepheline-bearing lava",
+        "nb": "Nefelinførende lava"
       }
     },
     {
@@ -88868,7 +88966,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-3",
       "tittel": {
-        "nb": "Dacitt (dacite)"
+        "en": "Dacite",
+        "nb": "Dacitt"
       }
     },
     {
@@ -88878,7 +88977,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-30",
       "tittel": {
-        "nb": "Pyroklastisk bergart (pyroclastic rock)"
+        "en": "Pyroclastic rock",
+        "nb": "Pyroklastisk bergart"
       }
     },
     {
@@ -88888,7 +88988,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-4",
       "tittel": {
-        "nb": "Intermediær vulkansk bergart (intermediate volcanic rock)"
+        "en": "Intermediate volcanic rock",
+        "nb": "Intermediær vulkansk bergart"
       }
     },
     {
@@ -88898,7 +88999,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-40",
       "tittel": {
-        "nb": "Vulkanske breksje (volcanic breccia)"
+        "en": "Volcanic breccia",
+        "nb": "Vulkanske breksje"
       }
     },
     {
@@ -88908,7 +89010,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-41",
       "tittel": {
-        "nb": "Lapillituff (lapillituff)"
+        "en": "Lapillituff",
+        "nb": "Lapillituff"
       }
     },
     {
@@ -88918,7 +89021,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-42",
       "tittel": {
-        "nb": "Tuff (tuff)"
+        "en": "Tuff",
+        "nb": "Tuff"
       }
     },
     {
@@ -88928,7 +89032,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-2-43",
       "tittel": {
-        "nb": "Ryolitt (rhyolite)"
+        "en": "Rhyolite",
+        "nb": "Ryolitt"
       }
     },
     {
@@ -88938,7 +89043,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-1",
       "tittel": {
-        "nb": "Leirstein (claystone)"
+        "en": "Claystone",
+        "nb": "Leirstein"
       }
     },
     {
@@ -88948,7 +89054,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-10",
       "tittel": {
-        "nb": "Sedimentær breksje (sedimentary breccia)"
+        "en": "Sedimentary breccia",
+        "nb": "Sedimentær breksje"
       }
     },
     {
@@ -88958,7 +89065,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-11",
       "tittel": {
-        "nb": "Tillitt (tillite)"
+        "en": "Tillite",
+        "nb": "Tillitt"
       }
     },
     {
@@ -88968,7 +89076,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-12",
       "tittel": {
-        "nb": "Diamiktitt (diamictite)"
+        "en": "Diamictite",
+        "nb": "Diamiktitt"
       }
     },
     {
@@ -88978,7 +89087,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-2",
       "tittel": {
-        "nb": "Slamstein (mudstone)"
+        "en": "Mudstone",
+        "nb": "Slamstein"
       }
     },
     {
@@ -88988,7 +89098,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-20",
       "tittel": {
-        "nb": "Mergelstein (marl)"
+        "en": "Marl",
+        "nb": "Mergelstein"
       }
     },
     {
@@ -88998,7 +89109,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-21",
       "tittel": {
-        "nb": "Kalkstein (limestone)"
+        "en": "Limestone",
+        "nb": "Kalkstein"
       }
     },
     {
@@ -89008,7 +89120,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-22",
       "tittel": {
-        "nb": "Dolomittstein (dolostone)"
+        "en": "Dolostone",
+        "nb": "Dolomittstein"
       }
     },
     {
@@ -89018,7 +89131,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-3",
       "tittel": {
-        "nb": "Siltstein (siltstone)"
+        "en": "Siltstone",
+        "nb": "Siltstein"
       }
     },
     {
@@ -89028,7 +89142,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-30",
       "tittel": {
-        "nb": "Kiselstein (chert)"
+        "en": "Chert",
+        "nb": "Kiselstein"
       }
     },
     {
@@ -89038,7 +89153,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-4",
       "tittel": {
-        "nb": "Sandstein (sandstone)"
+        "en": "Sandstone",
+        "nb": "Sandstein"
       }
     },
     {
@@ -89048,7 +89164,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-40",
       "tittel": {
-        "nb": "Tuffitt (tuffite)"
+        "en": "Tuffite",
+        "nb": "Tuffitt"
       }
     },
     {
@@ -89058,7 +89175,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-5",
       "tittel": {
-        "nb": "Gråvakke (greywacke)"
+        "en": "Greywacke",
+        "nb": "Gråvakke"
       }
     },
     {
@@ -89068,7 +89186,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-50",
       "tittel": {
-        "nb": "Båndet jernmalm (banded iron formation)"
+        "en": "Banded iron formation",
+        "nb": "Båndet jernmalm"
       }
     },
     {
@@ -89078,7 +89197,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-6",
       "tittel": {
-        "nb": "Arkose (arkose)"
+        "en": "Arkose",
+        "nb": "Arkose"
       }
     },
     {
@@ -89088,7 +89208,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-3-7",
       "tittel": {
-        "nb": "Konglomerat (konglomerate)"
+        "en": "Konglomerate",
+        "nb": "Konglomerat"
       }
     },
     {
@@ -89098,7 +89219,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-1",
       "tittel": {
-        "nb": "Leirskifer (shale)"
+        "en": "Shale",
+        "nb": "Leirskifer"
       }
     },
     {
@@ -89108,7 +89230,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-10",
       "tittel": {
-        "nb": "Hornblendeskifer (hornblende schist)"
+        "en": "Hornblende schist",
+        "nb": "Hornblendeskifer"
       }
     },
     {
@@ -89118,7 +89241,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-11",
       "tittel": {
-        "nb": "Grafittskifer (graphitic schist)"
+        "en": "Graphitic schist",
+        "nb": "Grafittskifer"
       }
     },
     {
@@ -89128,7 +89252,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-15",
       "tittel": {
-        "nb": "Kalkspatmarmor (calcite marble)"
+        "en": "Calcite marble",
+        "nb": "Kalkspatmarmor"
       }
     },
     {
@@ -89138,7 +89263,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-16",
       "tittel": {
-        "nb": "Dolomittmarmor (dolomite marble)"
+        "en": "Dolomite marble",
+        "nb": "Dolomittmarmor"
       }
     },
     {
@@ -89148,7 +89274,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-2",
       "tittel": {
-        "nb": "Fyllitt (phyllite)"
+        "en": "Phyllite",
+        "nb": "Fyllitt"
       }
     },
     {
@@ -89158,7 +89285,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-20",
       "tittel": {
-        "nb": "Metasandstein (metasandstone)"
+        "en": "Metasandstone",
+        "nb": "Metasandstein"
       }
     },
     {
@@ -89168,7 +89296,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-21",
       "tittel": {
-        "nb": "Metagråvakke (metagreywacke)"
+        "en": "Metagreywacke",
+        "nb": "Metagråvakke"
       }
     },
     {
@@ -89178,7 +89307,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-22",
       "tittel": {
-        "nb": "Meta-arkose (meta-arkose)"
+        "en": "Meta-arkose",
+        "nb": "Meta-arkose"
       }
     },
     {
@@ -89188,7 +89318,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-23",
       "tittel": {
-        "nb": "Kvartsitt (quartzite)"
+        "en": "Quartzite",
+        "nb": "Kvartsitt"
       }
     },
     {
@@ -89198,7 +89329,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-24",
       "tittel": {
-        "nb": "Kvartsskifer (quartz schist)"
+        "en": "Quartz schist",
+        "nb": "Kvartsskifer"
       }
     },
     {
@@ -89208,7 +89340,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-25",
       "tittel": {
-        "nb": "Kiselstein (metachert)"
+        "en": "Metachert",
+        "nb": "Kiselstein"
       }
     },
     {
@@ -89218,7 +89351,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-26",
       "tittel": {
-        "nb": "Glimmergneis (mica gneiss)"
+        "en": "Mica gneiss",
+        "nb": "Glimmergneis"
       }
     },
     {
@@ -89228,7 +89362,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-27",
       "tittel": {
-        "nb": "Kalksilikatbergart (calc-silicate rock)"
+        "en": "Calc-silicate rock",
+        "nb": "Kalksilikatbergart"
       }
     },
     {
@@ -89238,7 +89373,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-3",
       "tittel": {
-        "nb": "Glimmerskifer (mica schist)"
+        "en": "Mica schist",
+        "nb": "Glimmerskifer"
       }
     },
     {
@@ -89248,7 +89384,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-30",
       "tittel": {
-        "nb": "Granittisk gneis (granitic gneiss)"
+        "en": "Granitic gneiss",
+        "nb": "Granittisk gneis"
       }
     },
     {
@@ -89258,7 +89395,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-31",
       "tittel": {
-        "nb": "Granodiorittisk gneis (granodioritic gneiss)"
+        "en": "Granodioritic gneiss",
+        "nb": "Granodiorittisk gneis"
       }
     },
     {
@@ -89268,7 +89406,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-32",
       "tittel": {
-        "nb": "Tonalittisk gneis (tonalitic gneiss)"
+        "en": "Tonalitic gneiss",
+        "nb": "Tonalittisk gneis"
       }
     },
     {
@@ -89278,7 +89417,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-33",
       "tittel": {
-        "nb": "Kvartsdiorittisk gneis (quartz dioritic gneiss)"
+        "en": "Quartz dioritic gneiss",
+        "nb": "Kvartsdiorittisk gneis"
       }
     },
     {
@@ -89288,7 +89428,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-34",
       "tittel": {
-        "nb": "Monzonittisk gneis (monzonitic gneiss)"
+        "en": "Monzonitic gneiss",
+        "nb": "Monzonittisk gneis"
       }
     },
     {
@@ -89298,7 +89439,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-35",
       "tittel": {
-        "nb": "Diorittisk gneis (dioritic gneiss)"
+        "en": "Dioritic gneiss",
+        "nb": "Diorittisk gneis"
       }
     },
     {
@@ -89308,7 +89450,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-4",
       "tittel": {
-        "nb": "Granatglimmerskifer (garnet mica schist)"
+        "en": "Garnet mica schist",
+        "nb": "Granatglimmerskifer"
       }
     },
     {
@@ -89318,7 +89461,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-40",
       "tittel": {
-        "nb": "Migmatitt (migmatite)"
+        "en": "Migmatite",
+        "nb": "Migmatitt"
       }
     },
     {
@@ -89328,7 +89472,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-41",
       "tittel": {
-        "nb": "Øyegneis (augengneiss)"
+        "en": "Augengneiss",
+        "nb": "Øyegneis"
       }
     },
     {
@@ -89338,7 +89483,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-42",
       "tittel": {
-        "nb": "Båndgneis (banded gneiss)"
+        "en": "Banded gneiss",
+        "nb": "Båndgneis"
       }
     },
     {
@@ -89348,7 +89494,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-5",
       "tittel": {
-        "nb": "Kalkfyllitt (calcareous phyllite)"
+        "en": "Calcareous phyllite",
+        "nb": "Kalkfyllitt"
       }
     },
     {
@@ -89358,7 +89505,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-50",
       "tittel": {
-        "nb": "Grønnskifer (greenschist)"
+        "en": "Greenschist",
+        "nb": "Grønnskifer"
       }
     },
     {
@@ -89368,7 +89516,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-51",
       "tittel": {
-        "nb": "Grønnstein (greenstone)"
+        "en": "Greenstone",
+        "nb": "Grønnstein"
       }
     },
     {
@@ -89378,7 +89527,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-52",
       "tittel": {
-        "nb": "Amfibolitt (amphibolite)"
+        "en": "Amphibolite",
+        "nb": "Amfibolitt"
       }
     },
     {
@@ -89388,7 +89538,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-53",
       "tittel": {
-        "nb": "Granatamfibolitt (garnet amphibolite)"
+        "en": "Garnet amphibolite",
+        "nb": "Granatamfibolitt"
       }
     },
     {
@@ -89398,7 +89549,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-54",
       "tittel": {
-        "nb": "Metagabbro (metagabbro)"
+        "en": "Metagabbro",
+        "nb": "Metagabbro"
       }
     },
     {
@@ -89408,7 +89560,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-55",
       "tittel": {
-        "nb": "Eklogitt (eclogite)"
+        "en": "Eclogite",
+        "nb": "Eklogitt"
       }
     },
     {
@@ -89418,7 +89571,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-56",
       "tittel": {
-        "nb": "Serpentinitt (serpentinite)"
+        "en": "Serpentinite",
+        "nb": "Serpentinitt"
       }
     },
     {
@@ -89428,7 +89582,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-57",
       "tittel": {
-        "nb": "Kleberstein (soapstone)"
+        "en": "Soapstone",
+        "nb": "Kleberstein"
       }
     },
     {
@@ -89438,7 +89593,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-6",
       "tittel": {
-        "nb": "Kalkglimmerskifer (calcareous mica schist)"
+        "en": "Calcareous mica schist",
+        "nb": "Kalkglimmerskifer"
       }
     },
     {
@@ -89448,7 +89604,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-60",
       "tittel": {
-        "nb": "Albititt (albitite)"
+        "en": "Albitite",
+        "nb": "Albititt"
       }
     },
     {
@@ -89458,7 +89615,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-61",
       "tittel": {
-        "nb": "Hydrotermalkvarts (hydrothermal quartz)"
+        "en": "Hydrothermal quartz",
+        "nb": "Hydrotermalkvarts"
       }
     },
     {
@@ -89468,7 +89626,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-7",
       "tittel": {
-        "nb": "Skarn (skarn)"
+        "en": "Skarn",
+        "nb": "Skarn"
       }
     },
     {
@@ -89478,7 +89637,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-70",
       "tittel": {
-        "nb": "Mylonitt (mylonite)"
+        "en": "Mylonite",
+        "nb": "Mylonitt"
       }
     },
     {
@@ -89488,7 +89648,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-71",
       "tittel": {
-        "nb": "Kataklasitt (cataclasite)"
+        "en": "Cataclasite",
+        "nb": "Kataklasitt"
       }
     },
     {
@@ -89498,7 +89659,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-72",
       "tittel": {
-        "nb": "Tektonisk breksje (tectonic breccia)"
+        "en": "Tectonic breccia",
+        "nb": "Tektonisk breksje"
       }
     },
     {
@@ -89508,7 +89670,8 @@
       "kart": {},
       "kode": "NN-NA-BS-2BE-4-73",
       "tittel": {
-        "nb": "Nedslagsbreksje (impact breccia)"
+        "en": "Impact breccia",
+        "nb": "Nedslagsbreksje"
       }
     },
     {
@@ -105297,7 +105460,8 @@
       "kode": "NN-NA-LKM-DM-0",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Sublitoral (epipelagial)"
+        "la": "Epipelagial",
+        "nb": "Sublitoral"
       },
       "type": "gradientverdi"
     },
@@ -105311,7 +105475,8 @@
       "kode": "NN-NA-LKM-DM-A",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Atlantisk vann, typisk i nedre sublitoral (mesopelagial)"
+        "la": "Mesopelagial",
+        "nb": "Atlantisk vann, typisk i nedre sublitoral"
       },
       "type": "gradientverdi"
     },
@@ -105325,7 +105490,8 @@
       "kode": "NN-NA-LKM-DM-B",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Intermediært vann, typisk i øvre bathyal (bathypelagial)"
+        "la": "Bathypelagial",
+        "nb": "Intermediært vann, typisk i øvre bathyal"
       },
       "type": "gradientverdi"
     },
@@ -105339,7 +105505,8 @@
       "kode": "NN-NA-LKM-DM-C",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Dyphavsvann, typisk i nedre bathyal (bathypelagial)"
+        "la": "Bathypelagial",
+        "nb": "Dyphavsvann, typisk i nedre bathyal"
       },
       "type": "gradientverdi"
     },
@@ -105353,7 +105520,8 @@
       "kode": "NN-NA-LKM-DM-D",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Dyphavsvann, typisk i nedre bathyal (bathypelagial)"
+        "la": "Bathypelagial",
+        "nb": "Dyphavsvann, typisk i nedre bathyal"
       },
       "type": "gradientverdi"
     },
@@ -105367,7 +105535,8 @@
       "kode": "NN-NA-LKM-DM-E",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Dyphavsvann, typisk i abyssal (abysso-pelagial)"
+        "la": "Abysso-pelagial",
+        "nb": "Dyphavsvann, typisk i abyssal"
       },
       "type": "gradientverdi"
     },
@@ -105381,7 +105550,8 @@
       "kode": "NN-NA-LKM-DM-F",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Dyphavsvann, typisk i abyssal (abysso-pelagial)"
+        "la": "Abysso-pelagial",
+        "nb": "Dyphavsvann, typisk i abyssal"
       },
       "type": "gradientverdi"
     },
@@ -108776,7 +108946,8 @@
       "kode": "NN-NA-LKM-SA-+",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Svakt saltanriket (svakt metahalin)"
+        "la": "Svakt metahalin",
+        "nb": "Svakt saltanriket"
       },
       "type": "gradientverdi"
     },
@@ -108790,7 +108961,8 @@
       "kode": "NN-NA-LKM-SA-0",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Fersk (hypohalin)"
+        "la": "Hypohalin",
+        "nb": "Fersk"
       },
       "type": "gradientverdi"
     },
@@ -108804,7 +108976,8 @@
       "kode": "NN-NA-LKM-SA-A",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Litt brakk (oligohalin)"
+        "la": "Oligohalin",
+        "nb": "Litt brakk"
       },
       "type": "gradientverdi"
     },
@@ -108818,7 +108991,8 @@
       "kode": "NN-NA-LKM-SA-B",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Temmelig brakk (mesohalin)"
+        "la": "Mesohalin",
+        "nb": "Temmelig brakk"
       },
       "type": "gradientverdi"
     },
@@ -108832,7 +109006,8 @@
       "kode": "NN-NA-LKM-SA-C",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Temmelig brakk (mesohalin)"
+        "la": "Mesohalin",
+        "nb": "Temmelig brakk"
       },
       "type": "gradientverdi"
     },
@@ -108846,7 +109021,8 @@
       "kode": "NN-NA-LKM-SA-D",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Temmelig salt (polyhalin)"
+        "la": "Polyhalin",
+        "nb": "Temmelig salt"
       },
       "type": "gradientverdi"
     },
@@ -108860,7 +109036,8 @@
       "kode": "NN-NA-LKM-SA-E",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Temmelig salt (polyhalin)"
+        "la": "Polyhalin",
+        "nb": "Temmelig salt"
       },
       "type": "gradientverdi"
     },
@@ -108874,7 +109051,8 @@
       "kode": "NN-NA-LKM-SA-F",
       "nivå": "Basistrinn",
       "tittel": {
-        "nb": "Normalsalt (euhalin)"
+        "la": "Euhalin",
+        "nb": "Normalsalt"
       },
       "type": "gradientverdi"
     },
@@ -111481,7 +111659,8 @@
       "kode": "NN-NA-BS-1AR-B-AB",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Edelgranslekta (Abies spp.)"
+        "la": "Abies spp.",
+        "nb": "Relativ sammensetning av busksjiktet - Edelgranslekta"
       }
     },
     {
@@ -111544,7 +111723,8 @@
       "kode": "NN-NA-BS-1AR-B-ACPL",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Spisslønn (Acer platanoides)"
+        "la": "Acer platanoides",
+        "nb": "Relativ sammensetning av busksjiktet - Spisslønn"
       }
     },
     {
@@ -111607,7 +111787,8 @@
       "kode": "NN-NA-BS-1AR-B-ACPS",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Platanlønn (Acer pseudoplatanus)"
+        "la": "Acer pseudoplatanus",
+        "nb": "Relativ sammensetning av busksjiktet - Platanlønn"
       }
     },
     {
@@ -111670,7 +111851,8 @@
       "kode": "NN-NA-BS-1AR-B-AEHI",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Hestekastanje (Aesculus hippocastanum)"
+        "la": "Aesculus hippocastanum",
+        "nb": "Relativ sammensetning av busksjiktet - Hestekastanje"
       }
     },
     {
@@ -111733,7 +111915,8 @@
       "kode": "NN-NA-BS-1AR-B-ALGL",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Svartor (Alnus glutinosus)"
+        "la": "Alnus glutinosus",
+        "nb": "Relativ sammensetning av busksjiktet - Svartor"
       }
     },
     {
@@ -111796,7 +111979,8 @@
       "kode": "NN-NA-BS-1AR-B-ALIN",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Gråor (Alnus incana)"
+        "la": "Alnus incana",
+        "nb": "Relativ sammensetning av busksjiktet - Gråor"
       }
     },
     {
@@ -111922,7 +112106,8 @@
       "kode": "NN-NA-BS-1AR-B-BE",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Bjørkeslekta (Betula spp.)"
+        "la": "Betula spp.",
+        "nb": "Relativ sammensetning av busksjiktet - Bjørkeslekta"
       }
     },
     {
@@ -111985,7 +112170,8 @@
       "kode": "NN-NA-BS-1AR-B-BEPE",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Hengebjørk (Betula pendula)"
+        "la": "Betula pendula",
+        "nb": "Relativ sammensetning av busksjiktet - Hengebjørk"
       }
     },
     {
@@ -112048,7 +112234,8 @@
       "kode": "NN-NA-BS-1AR-B-BEPU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Bjørk (Betula pubescens)"
+        "la": "Betula pubescens",
+        "nb": "Relativ sammensetning av busksjiktet - Bjørk"
       }
     },
     {
@@ -112111,7 +112298,8 @@
       "kode": "NN-NA-BS-1AR-B-BEVU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Berberis (Berberis vulgaris)"
+        "la": "Berberis vulgaris",
+        "nb": "Relativ sammensetning av busksjiktet - Berberis"
       }
     },
     {
@@ -112174,7 +112362,8 @@
       "kode": "NN-NA-BS-1AR-B-COAV",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Hassel (Corylus avellana)"
+        "la": "Corylus avellana",
+        "nb": "Relativ sammensetning av busksjiktet - Hassel"
       }
     },
     {
@@ -112237,7 +112426,8 @@
       "kode": "NN-NA-BS-1AR-B-CR",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Hagtorn (Crataegus spp.)"
+        "la": "Crataegus spp.",
+        "nb": "Relativ sammensetning av busksjiktet - Hagtorn"
       }
     },
     {
@@ -112300,7 +112490,8 @@
       "kode": "NN-NA-BS-1AR-B-CYSC",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Gyvel (Cytisus scoparius)"
+        "la": "Cytisus scoparius",
+        "nb": "Relativ sammensetning av busksjiktet - Gyvel"
       }
     },
     {
@@ -112426,7 +112617,8 @@
       "kode": "NN-NA-BS-1AR-B-FASY",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Bøk (Fagus sulvatica)"
+        "la": "Fagus sulvatica",
+        "nb": "Relativ sammensetning av busksjiktet - Bøk"
       }
     },
     {
@@ -112489,7 +112681,8 @@
       "kode": "NN-NA-BS-1AR-B-FREX",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Ask (Fraxinus excelsior)"
+        "la": "Fraxinus excelsior",
+        "nb": "Relativ sammensetning av busksjiktet - Ask"
       }
     },
     {
@@ -112552,7 +112745,8 @@
       "kode": "NN-NA-BS-1AR-B-FUAL",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Trollhegg (Frangula alnus)"
+        "la": "Frangula alnus",
+        "nb": "Relativ sammensetning av busksjiktet - Trollhegg"
       }
     },
     {
@@ -112615,7 +112809,8 @@
       "kode": "NN-NA-BS-1AR-B-HIRH",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Tindved (Hippophae rhamnoides)"
+        "la": "Hippophae rhamnoides",
+        "nb": "Relativ sammensetning av busksjiktet - Tindved"
       }
     },
     {
@@ -112678,7 +112873,8 @@
       "kode": "NN-NA-BS-1AR-B-ILAQ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Kristtorn (Ilex aquifolia)"
+        "la": "Ilex aquifolia",
+        "nb": "Relativ sammensetning av busksjiktet - Kristtorn"
       }
     },
     {
@@ -112741,7 +112937,8 @@
       "kode": "NN-NA-BS-1AR-B-JUCO",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Einer (Juniperus communis)"
+        "la": "Juniperus communis",
+        "nb": "Relativ sammensetning av busksjiktet - Einer"
       }
     },
     {
@@ -112867,7 +113064,8 @@
       "kode": "NN-NA-BS-1AR-B-LA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Lerk (Larix spp.)"
+        "la": "Larix spp.",
+        "nb": "Relativ sammensetning av busksjiktet - Lerk"
       }
     },
     {
@@ -112930,7 +113128,8 @@
       "kode": "NN-NA-BS-1AR-B-LIVU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Liguster (Ligustrum vulgare)"
+        "la": "Ligustrum vulgare",
+        "nb": "Relativ sammensetning av busksjiktet - Liguster"
       }
     },
     {
@@ -112993,7 +113192,8 @@
       "kode": "NN-NA-BS-1AR-B-LOXY",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Leddved (Lonicera xylosteum)"
+        "la": "Lonicera xylosteum",
+        "nb": "Relativ sammensetning av busksjiktet - Leddved"
       }
     },
     {
@@ -113056,7 +113256,8 @@
       "kode": "NN-NA-BS-1AR-B-MASY",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Eple (Malus sylvestris)"
+        "la": "Malus sylvestris",
+        "nb": "Relativ sammensetning av busksjiktet - Eple"
       }
     },
     {
@@ -113119,7 +113320,8 @@
       "kode": "NN-NA-BS-1AR-B-MRGE",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Klåved (Myricaria germanica)"
+        "la": "Myricaria germanica",
+        "nb": "Relativ sammensetning av busksjiktet - Klåved"
       }
     },
     {
@@ -113182,7 +113384,8 @@
       "kode": "NN-NA-BS-1AR-B-MYGA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Pors (Myrica gale)"
+        "la": "Myrica gale",
+        "nb": "Relativ sammensetning av busksjiktet - Pors"
       }
     },
     {
@@ -113245,7 +113448,8 @@
       "kode": "NN-NA-BS-1AR-B-PIAB",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Gran (Picea abies)"
+        "la": "Picea abies",
+        "nb": "Relativ sammensetning av busksjiktet - Gran"
       }
     },
     {
@@ -113308,7 +113512,8 @@
       "kode": "NN-NA-BS-1AR-B-PIZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Innførte gran-arter (Picea spp., inkl. sitkagran P. sitchensis)"
+        "la": "Picea spp., inkl. sitkagran P. sitchensis",
+        "nb": "Relativ sammensetning av busksjiktet - Innførte gran-arter"
       }
     },
     {
@@ -113371,7 +113576,8 @@
       "kode": "NN-NA-BS-1AR-B-POTR",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Osp (Populus tremula)"
+        "la": "Populus tremula",
+        "nb": "Relativ sammensetning av busksjiktet - Osp"
       }
     },
     {
@@ -113434,7 +113640,8 @@
       "kode": "NN-NA-BS-1AR-B-POZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Innførte poppel-arter (Populus spp.)"
+        "la": "Populus spp.",
+        "nb": "Relativ sammensetning av busksjiktet - Innførte poppel-arter"
       }
     },
     {
@@ -113497,7 +113704,8 @@
       "kode": "NN-NA-BS-1AR-B-PRCE",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Kirsebær og morell (Prunus subg. Cerasus)"
+        "la": "Prunus subg. Cerasus",
+        "nb": "Relativ sammensetning av busksjiktet - Kirsebær og morell"
       }
     },
     {
@@ -113560,7 +113768,8 @@
       "kode": "NN-NA-BS-1AR-B-PRDO",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Plomme (Prunus domestica)"
+        "la": "Prunus domestica",
+        "nb": "Relativ sammensetning av busksjiktet - Plomme"
       }
     },
     {
@@ -113623,7 +113832,8 @@
       "kode": "NN-NA-BS-1AR-B-PRPA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Hegg (Prunus padus)"
+        "la": "Prunus padus",
+        "nb": "Relativ sammensetning av busksjiktet - Hegg"
       }
     },
     {
@@ -113686,7 +113896,8 @@
       "kode": "NN-NA-BS-1AR-B-PRSP",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Slåpetorn (Prunus spinosa)"
+        "la": "Prunus spinosa",
+        "nb": "Relativ sammensetning av busksjiktet - Slåpetorn"
       }
     },
     {
@@ -113749,7 +113960,8 @@
       "kode": "NN-NA-BS-1AR-B-PUSY",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Furu (Pinus sylvestris)"
+        "la": "Pinus sylvestris",
+        "nb": "Relativ sammensetning av busksjiktet - Furu"
       }
     },
     {
@@ -113812,7 +114024,8 @@
       "kode": "NN-NA-BS-1AR-B-PUZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Innførte furu-arter (Pinus spp.)"
+        "la": "Pinus spp.",
+        "nb": "Relativ sammensetning av busksjiktet - Innførte furu-arter"
       }
     },
     {
@@ -113875,7 +114088,8 @@
       "kode": "NN-NA-BS-1AR-B-PYCO",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Pære (Pyrus communis)"
+        "la": "Pyrus communis",
+        "nb": "Relativ sammensetning av busksjiktet - Pære"
       }
     },
     {
@@ -113938,7 +114152,8 @@
       "kode": "NN-NA-BS-1AR-B-QU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Eikeslekta (Quercus sp.)"
+        "la": "Quercus sp.",
+        "nb": "Relativ sammensetning av busksjiktet - Eikeslekta"
       }
     },
     {
@@ -114001,7 +114216,8 @@
       "kode": "NN-NA-BS-1AR-B-RDZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Rhododendron (innførte, buskformete Rhododendron-arter)"
+        "la": "Innførte, buskformete Rhododendron-arter",
+        "nb": "Relativ sammensetning av busksjiktet - Rhododendron"
       }
     },
     {
@@ -114064,7 +114280,8 @@
       "kode": "NN-NA-BS-1AR-B-RHCA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Geitved (Rhamnus catharticus)"
+        "la": "Rhamnus catharticus",
+        "nb": "Relativ sammensetning av busksjiktet - Geitved"
       }
     },
     {
@@ -114127,7 +114344,8 @@
       "kode": "NN-NA-BS-1AR-B-RO",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Nyperoseslekta (Rosa spp.)"
+        "la": "Rosa spp.",
+        "nb": "Relativ sammensetning av busksjiktet - Nyperoseslekta"
       }
     },
     {
@@ -114190,7 +114408,8 @@
       "kode": "NN-NA-BS-1AR-B-RORU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Rynkerose (Rosa rugosa)"
+        "la": "Rosa rugosa",
+        "nb": "Relativ sammensetning av busksjiktet - Rynkerose"
       }
     },
     {
@@ -114253,7 +114472,8 @@
       "kode": "NN-NA-BS-1AR-B-RUID",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Bringebær (Rubus idaeus)"
+        "la": "Rubus idaeus",
+        "nb": "Relativ sammensetning av busksjiktet - Bringebær"
       }
     },
     {
@@ -114316,7 +114536,8 @@
       "kode": "NN-NA-BS-1AR-B-RUZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Bjørnebær (Rubus spp., ‘R. fruticosus-gruppa)"
+        "la": "Rubus spp., ‘R. fruticosus-gruppa",
+        "nb": "Relativ sammensetning av busksjiktet - Bjørnebær"
       }
     },
     {
@@ -114379,7 +114600,8 @@
       "kode": "NN-NA-BS-1AR-B-SA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Pil- og vierarter (Salix spp.)"
+        "la": "Salix spp.",
+        "nb": "Relativ sammensetning av busksjiktet - Pil- og vierarter"
       }
     },
     {
@@ -114442,7 +114664,8 @@
       "kode": "NN-NA-BS-1AR-B-SACA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Selje (Salix caprea)"
+        "la": "Salix caprea",
+        "nb": "Relativ sammensetning av busksjiktet - Selje"
       }
     },
     {
@@ -114505,7 +114728,8 @@
       "kode": "NN-NA-BS-1AR-B-SADA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Doggpil (Salix daphnoides)"
+        "la": "Salix daphnoides",
+        "nb": "Relativ sammensetning av busksjiktet - Doggpil"
       }
     },
     {
@@ -114568,7 +114792,8 @@
       "kode": "NN-NA-BS-1AR-B-SAPE",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Istervier (Salix pentandra)"
+        "la": "Salix pentandra",
+        "nb": "Relativ sammensetning av busksjiktet - Istervier"
       }
     },
     {
@@ -114631,7 +114856,8 @@
       "kode": "NN-NA-BS-1AR-B-SATR",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Mandelpil (Salix triandra)"
+        "la": "Salix triandra",
+        "nb": "Relativ sammensetning av busksjiktet - Mandelpil"
       }
     },
     {
@@ -114694,7 +114920,8 @@
       "kode": "NN-NA-BS-1AR-B-SAZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Innførte pilearter (Salix spp.)"
+        "la": "Salix spp.",
+        "nb": "Relativ sammensetning av busksjiktet - Innførte pilearter"
       }
     },
     {
@@ -114757,7 +114984,8 @@
       "kode": "NN-NA-BS-1AR-B-SM",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Hyll (Sambucus spp.)"
+        "la": "Sambucus spp.",
+        "nb": "Relativ sammensetning av busksjiktet - Hyll"
       }
     },
     {
@@ -114820,7 +115048,8 @@
       "kode": "NN-NA-BS-1AR-B-SOAU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Rogn (Sorbus aucuparia)"
+        "la": "Sorbus aucuparia",
+        "nb": "Relativ sammensetning av busksjiktet - Rogn"
       }
     },
     {
@@ -114883,7 +115112,8 @@
       "kode": "NN-NA-BS-1AR-B-SOZZ",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Asal (Sorbus-arter unntatt rogn)"
+        "la": "Sorbus-arter unntatt rogn",
+        "nb": "Relativ sammensetning av busksjiktet - Asal"
       }
     },
     {
@@ -114946,7 +115176,8 @@
       "kode": "NN-NA-BS-1AR-B-SYVU",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Syrin (Syringa vulgaris)"
+        "la": "Syringa vulgaris",
+        "nb": "Relativ sammensetning av busksjiktet - Syrin"
       }
     },
     {
@@ -115009,7 +115240,8 @@
       "kode": "NN-NA-BS-1AR-B-TABA",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Barlind (Taxus baccata)"
+        "la": "Taxus baccata",
+        "nb": "Relativ sammensetning av busksjiktet - Barlind"
       }
     },
     {
@@ -115072,7 +115304,8 @@
       "kode": "NN-NA-BS-1AR-B-TICO",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Lind (Tilia cordata)"
+        "la": "Tilia cordata",
+        "nb": "Relativ sammensetning av busksjiktet - Lind"
       }
     },
     {
@@ -115135,7 +115368,8 @@
       "kode": "NN-NA-BS-1AR-B-ULGL",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Alm (Ulmus glabra)"
+        "la": "Ulmus glabra",
+        "nb": "Relativ sammensetning av busksjiktet - Alm"
       }
     },
     {
@@ -115261,7 +115495,8 @@
       "kode": "NN-NA-BS-1AR-B-VIOP",
       "nivå": "Verdi",
       "tittel": {
-        "nb": "Relativ sammensetning av busksjiktet - Krossved (Viburnus opulus)"
+        "la": "Viburnus opulus",
+        "nb": "Relativ sammensetning av busksjiktet - Krossved"
       }
     },
     {
@@ -116525,7 +116760,7 @@
   ],
   "meta": {
     "tittel": "Natursystem",
-    "produsertUtc": "2019-09-03T07:47:24.486Z",
+    "produsertUtc": "2019-09-06T14:58:16.352Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/natursystem.json",
     "tool": {
