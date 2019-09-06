@@ -89684,7 +89684,7 @@
       "kode": "NN-NA-BS-2FO",
       "nivå": "Variabel",
       "tittel": {
-        "nb": "Fossilforekomst [observert forekomst av fossil]"
+        "nb": "Fossilforekomst"
       }
     },
     {
@@ -116760,7 +116760,7 @@
   ],
   "meta": {
     "tittel": "Natursystem",
-    "produsertUtc": "2019-09-06T14:58:16.352Z",
+    "produsertUtc": "2019-09-06T17:38:28.346Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/natursystem.json",
     "tool": {
