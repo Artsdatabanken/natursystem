@@ -88512,7 +88512,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 76
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-1",
       "tittel": {
         "en": "Alkali feldspar granite",
@@ -88523,7 +88529,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 77
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-10",
       "tittel": {
         "en": "Larvikite",
@@ -88534,7 +88546,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 78
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-11",
       "tittel": {
         "en": "Quartz diorite",
@@ -88545,7 +88563,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 79
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-12",
       "tittel": {
         "en": "Diorite",
@@ -88556,7 +88580,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 80
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-13",
       "tittel": {
         "en": "Gabbro",
@@ -88567,7 +88597,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 81
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-14",
       "tittel": {
         "en": "Norite",
@@ -88578,7 +88614,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 82
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-2",
       "tittel": {
         "en": "Granite",
@@ -88589,7 +88631,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 83
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-20",
       "tittel": {
         "en": "Nephelin-bearing rock",
@@ -88600,7 +88648,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 84
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-3",
       "tittel": {
         "en": "Granodiorite",
@@ -88611,7 +88665,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 85
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-30",
       "tittel": {
         "en": "Peridotite",
@@ -88622,7 +88682,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 86
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-31",
       "tittel": {
         "en": "Dunite",
@@ -88633,7 +88699,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 87
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-32",
       "tittel": {
         "en": "Harzburgite",
@@ -88644,7 +88716,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 88
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-33",
       "tittel": {
         "en": "Wehrlite",
@@ -88655,7 +88733,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 89
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-34",
       "tittel": {
         "en": "Lherzolite",
@@ -88666,7 +88750,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 90
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-35",
       "tittel": {
         "en": "Websterite",
@@ -88677,7 +88767,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 91
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-36",
       "tittel": {
         "en": "Pyroksenite",
@@ -88688,7 +88784,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 92
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-4",
       "tittel": {
         "en": "Tonalite",
@@ -88699,7 +88801,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 93
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-40",
       "tittel": {
         "en": "Charnockite",
@@ -88710,7 +88818,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 94
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-41",
       "tittel": {
         "en": "Mangerite",
@@ -88721,7 +88835,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 95
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-42",
       "tittel": {
         "en": "Enderbite",
@@ -88732,7 +88852,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 96
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-43",
       "tittel": {
         "en": "Anorthosite",
@@ -88743,7 +88869,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 97
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-44",
       "tittel": {
         "en": "Carbonatite",
@@ -88754,7 +88886,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 98
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-5",
       "tittel": {
         "en": "Trondhjemite",
@@ -88765,7 +88903,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 99
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-50",
       "tittel": {
         "en": "Diabase",
@@ -88776,7 +88920,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 100
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-51",
       "tittel": {
         "en": "Lamprophyre",
@@ -88787,7 +88937,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 101
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-6",
       "tittel": {
         "en": "Alkali feldspar syenite",
@@ -88798,7 +88954,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 102
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-60",
       "tittel": {
         "en": "Pegmatite",
@@ -88809,7 +88971,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 103
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-61",
       "tittel": {
         "en": "Aplite",
@@ -88820,7 +88988,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 104
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-7",
       "tittel": {
         "en": "Syenite",
@@ -88831,7 +89005,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 105
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-8",
       "tittel": {
         "en": "Monzonite",
@@ -88842,7 +89022,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-1"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 106
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-1-9",
       "tittel": {
         "en": "Monzodiorite",
@@ -88853,7 +89039,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 1
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-1",
       "tittel": {
         "en": "Rhyolite",
@@ -88864,7 +89056,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 2
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-10",
       "tittel": {
         "en": "Trachyte",
@@ -88875,7 +89073,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 3
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-11",
       "tittel": {
         "en": "Rhombporphyry",
@@ -88886,7 +89090,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 4
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-12",
       "tittel": {
         "en": "Latite",
@@ -88897,7 +89107,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 5
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-13",
       "tittel": {
         "en": "Andesite",
@@ -88908,7 +89124,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 6
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-14",
       "tittel": {
         "en": "Mafic volcanic rock",
@@ -88919,7 +89141,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 7
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-2",
       "tittel": {
         "en": "Rhyodacite",
@@ -88930,7 +89158,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 8
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-20",
       "tittel": {
         "en": "Basalt",
@@ -88941,7 +89175,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 9
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-21",
       "tittel": {
         "en": "Komatiite",
@@ -88952,7 +89192,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 10
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-22",
       "tittel": {
         "en": "Nepheline-bearing lava",
@@ -88963,7 +89209,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 11
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-3",
       "tittel": {
         "en": "Dacite",
@@ -88974,7 +89226,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 12
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-30",
       "tittel": {
         "en": "Pyroclastic rock",
@@ -88985,7 +89243,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 13
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-4",
       "tittel": {
         "en": "Intermediate volcanic rock",
@@ -88996,7 +89260,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 14
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-40",
       "tittel": {
         "en": "Volcanic breccia",
@@ -89007,7 +89277,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 15
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-41",
       "tittel": {
         "en": "Lapillituff",
@@ -89018,7 +89294,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 16
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-42",
       "tittel": {
         "en": "Tuff",
@@ -89029,7 +89311,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-2"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 17
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-2-43",
       "tittel": {
         "en": "Rhyolite",
@@ -89040,7 +89328,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 18
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-1",
       "tittel": {
         "en": "Claystone",
@@ -89051,7 +89345,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 19
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-10",
       "tittel": {
         "en": "Sedimentary breccia",
@@ -89062,7 +89362,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 20
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-11",
       "tittel": {
         "en": "Tillite",
@@ -89073,7 +89379,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 21
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-12",
       "tittel": {
         "en": "Diamictite",
@@ -89084,7 +89396,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 22
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-2",
       "tittel": {
         "en": "Mudstone",
@@ -89095,7 +89413,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 23
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-20",
       "tittel": {
         "en": "Marl",
@@ -89106,7 +89430,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 24
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-21",
       "tittel": {
         "en": "Limestone",
@@ -89117,7 +89447,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 25
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-22",
       "tittel": {
         "en": "Dolostone",
@@ -89128,7 +89464,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 26
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-3",
       "tittel": {
         "en": "Siltstone",
@@ -89139,7 +89481,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 27
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-30",
       "tittel": {
         "en": "Chert",
@@ -89150,7 +89498,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 28
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-4",
       "tittel": {
         "en": "Sandstone",
@@ -89161,7 +89515,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 29
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-40",
       "tittel": {
         "en": "Tuffite",
@@ -89172,7 +89532,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 30
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-5",
       "tittel": {
         "en": "Greywacke",
@@ -89183,7 +89549,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 31
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-50",
       "tittel": {
         "en": "Banded iron formation",
@@ -89194,7 +89566,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 32
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-6",
       "tittel": {
         "en": "Arkose",
@@ -89205,7 +89583,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-3"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 33
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-3-7",
       "tittel": {
         "en": "Konglomerate",
@@ -89216,7 +89600,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 34
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-1",
       "tittel": {
         "en": "Shale",
@@ -89227,7 +89617,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 35
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-10",
       "tittel": {
         "en": "Hornblende schist",
@@ -89238,7 +89634,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 36
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-11",
       "tittel": {
         "en": "Graphitic schist",
@@ -89249,7 +89651,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 37
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-15",
       "tittel": {
         "en": "Calcite marble",
@@ -89260,7 +89668,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 38
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-16",
       "tittel": {
         "en": "Dolomite marble",
@@ -89271,7 +89685,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 39
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-2",
       "tittel": {
         "en": "Phyllite",
@@ -89282,7 +89702,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 40
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-20",
       "tittel": {
         "en": "Metasandstone",
@@ -89293,7 +89719,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 41
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-21",
       "tittel": {
         "en": "Metagreywacke",
@@ -89304,7 +89736,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 42
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-22",
       "tittel": {
         "en": "Meta-arkose",
@@ -89315,7 +89753,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 43
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-23",
       "tittel": {
         "en": "Quartzite",
@@ -89326,7 +89770,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 44
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-24",
       "tittel": {
         "en": "Quartz schist",
@@ -89337,7 +89787,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 45
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-25",
       "tittel": {
         "en": "Metachert",
@@ -89348,7 +89804,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 46
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-26",
       "tittel": {
         "en": "Mica gneiss",
@@ -89359,7 +89821,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 47
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-27",
       "tittel": {
         "en": "Calc-silicate rock",
@@ -89370,7 +89838,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 48
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-3",
       "tittel": {
         "en": "Mica schist",
@@ -89381,7 +89855,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 49
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-30",
       "tittel": {
         "en": "Granitic gneiss",
@@ -89392,7 +89872,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 50
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-31",
       "tittel": {
         "en": "Granodioritic gneiss",
@@ -89403,7 +89889,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 51
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-32",
       "tittel": {
         "en": "Tonalitic gneiss",
@@ -89414,7 +89906,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 52
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-33",
       "tittel": {
         "en": "Quartz dioritic gneiss",
@@ -89425,7 +89923,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 53
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-34",
       "tittel": {
         "en": "Monzonitic gneiss",
@@ -89436,7 +89940,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 54
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-35",
       "tittel": {
         "en": "Dioritic gneiss",
@@ -89447,7 +89957,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 55
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-4",
       "tittel": {
         "en": "Garnet mica schist",
@@ -89458,7 +89974,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 56
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-40",
       "tittel": {
         "en": "Migmatite",
@@ -89469,7 +89991,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 57
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-41",
       "tittel": {
         "en": "Augengneiss",
@@ -89480,7 +90008,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 58
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-42",
       "tittel": {
         "en": "Banded gneiss",
@@ -89491,7 +90025,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 59
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-5",
       "tittel": {
         "en": "Calcareous phyllite",
@@ -89502,7 +90042,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 60
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-50",
       "tittel": {
         "en": "Greenschist",
@@ -89513,7 +90059,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 61
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-51",
       "tittel": {
         "en": "Greenstone",
@@ -89524,7 +90076,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 62
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-52",
       "tittel": {
         "en": "Amphibolite",
@@ -89535,7 +90093,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 63
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-53",
       "tittel": {
         "en": "Garnet amphibolite",
@@ -89546,7 +90110,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 64
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-54",
       "tittel": {
         "en": "Metagabbro",
@@ -89557,7 +90127,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 65
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-55",
       "tittel": {
         "en": "Eclogite",
@@ -89568,7 +90144,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 66
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-56",
       "tittel": {
         "en": "Serpentinite",
@@ -89579,7 +90161,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 67
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-57",
       "tittel": {
         "en": "Soapstone",
@@ -89590,7 +90178,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 68
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-6",
       "tittel": {
         "en": "Calcareous mica schist",
@@ -89601,7 +90195,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 69
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-60",
       "tittel": {
         "en": "Albitite",
@@ -89612,7 +90212,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 70
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-61",
       "tittel": {
         "en": "Hydrothermal quartz",
@@ -89623,7 +90229,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 71
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-7",
       "tittel": {
         "en": "Skarn",
@@ -89634,7 +90246,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 72
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-70",
       "tittel": {
         "en": "Mylonite",
@@ -89645,7 +90263,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 73
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-71",
       "tittel": {
         "en": "Cataclasite",
@@ -89656,7 +90280,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 74
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-72",
       "tittel": {
         "en": "Tectonic breccia",
@@ -89667,7 +90297,13 @@
       "foreldre": [
         "NN-NA-BS-2BE-4"
       ],
-      "kart": {},
+      "kart": {
+        "format": {
+          "raster_indexed": {
+            "index": 75
+          }
+        }
+      },
       "kode": "NN-NA-BS-2BE-4-73",
       "tittel": {
         "en": "Impact breccia",
@@ -116747,7 +117383,7 @@
   ],
   "meta": {
     "tittel": "Natursystem",
-    "produsertUtc": "2019-09-08T09:11:26.545Z",
+    "produsertUtc": "2019-09-08T11:47:54.105Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/natursystem.json",
     "tool": {
