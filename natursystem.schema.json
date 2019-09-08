@@ -19,52 +19,12 @@
           "ingress": {
             "type": "string"
           },
-          "kode": {
-            "type": "string"
-          },
-          "relasjon": {
-            "type": "array",
-            "items": {
-              "type": "object",
-              "properties": {
-                "erSubset": {
-                  "type": "boolean"
-                },
-                "kant": {
-                  "type": "string"
-                },
-                "kantRetur": {
-                  "type": "string"
-                },
-                "kode": {
-                  "type": "string"
-                }
-              },
-              "required": [
-                "erSubset",
-                "kant",
-                "kantRetur",
-                "kode"
-              ]
-            }
-          },
-          "tittel": {
-            "type": "object",
-            "properties": {
-              "nb": {
-                "type": "string"
-              }
-            }
-          },
-          "sortering": {
-            "type": "number"
-          },
-          "infoUrl": {
-            "type": "string"
-          },
           "kart": {
             "type": "object",
             "properties": {
+              "målestokk": {
+                "type": "number"
+              },
               "format": {
                 "type": "object",
                 "properties": {
@@ -99,6 +59,58 @@
                 }
               }
             }
+          },
+          "kode": {
+            "type": "string"
+          },
+          "nivå": {
+            "type": "string"
+          },
+          "relasjon": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "erSubset": {
+                  "type": "boolean"
+                },
+                "kant": {
+                  "type": "string"
+                },
+                "kantRetur": {
+                  "type": "string"
+                },
+                "kode": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "erSubset",
+                "kant",
+                "kantRetur",
+                "kode"
+              ]
+            }
+          },
+          "tittel": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              },
+              "la": {
+                "type": "string"
+              },
+              "en": {
+                "type": "string"
+              }
+            }
+          },
+          "sortering": {
+            "type": "number"
+          },
+          "infoUrl": {
+            "type": "string"
           },
           "måleenhet": {
             "type": "string"
@@ -181,9 +193,6 @@
               ]
             }
           },
-          "nivå": {
-            "type": "string"
-          },
           "normalisertVerdi": {
             "type": "array",
             "items": {
@@ -193,7 +202,9 @@
         },
         "required": [
           "foreldre",
+          "kart",
           "kode",
+          "nivå",
           "relasjon",
           "tittel",
           "farge",
@@ -202,11 +213,9 @@
           "autorkode",
           "intervall",
           "infoUrl",
-          "kart",
           "måleenhet",
           "type",
           "farge0",
-          "nivå",
           "normalisertVerdi"
         ]
       }
@@ -224,7 +233,7 @@
           "type": "string"
         },
         "url": {
-          "type": "null"
+          "type": "string"
         },
         "tool": {
           "type": "object",
@@ -241,6 +250,9 @@
           "type": "number"
         }
       }
+    },
+    "$schema": {
+      "type": "string"
     }
   }
 }
