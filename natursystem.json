@@ -89689,19 +89689,6 @@
     },
     {
       "foreldre": [
-        "NN-NA-BS-2FO"
-      ],
-      "kart": {
-        "målestokk": 5000
-      },
-      "kode": "NN-NA-BS-2FO-X",
-      "nivå": "Verdi",
-      "tittel": {
-        "nb": "Observert forekomst av fossil"
-      }
-    },
-    {
-      "foreldre": [
         "NN-NA-BS-2"
       ],
       "kart": {
@@ -116760,14 +116747,14 @@
   ],
   "meta": {
     "tittel": "Natursystem",
-    "produsertUtc": "2019-09-06T17:38:28.346Z",
+    "produsertUtc": "2019-09-08T09:11:26.545Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/natursystem.json",
     "tool": {
       "name": "natursystem-lastejobb",
       "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme"
     },
-    "elementer": 4193
+    "elementer": 4192
   },
   "$schema": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/natursystem.schema.json#"
 }
