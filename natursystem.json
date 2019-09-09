@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "farge": "hsl(77, 19%, 46%)",
+      "farge": "#808c61",
       "foreldre": [
         "NN-NA-TI-M"
       ],
@@ -3033,7 +3033,7 @@
       }
     },
     {
-      "farge": "hsl(59, 41%, 46%)",
+      "farge": "#a6a445",
       "foreldre": [
         "NN-NA-TI-T2-E-4"
       ],
@@ -3249,7 +3249,7 @@
       }
     },
     {
-      "farge": "hsl(58, 13%, 67%)",
+      "farge": "#b6b6a1",
       "foreldre": [
         "NN-NA-TI-T2-E-4"
       ],
@@ -7800,7 +7800,7 @@
       }
     },
     {
-      "farge": "hsl(60, 2%, 52%)",
+      "farge": "#868681",
       "foreldre": [
         "NN-NA-TI-T6-E-2"
       ],
@@ -12216,7 +12216,7 @@
       }
     },
     {
-      "farge": "hsl(82, 25%, 65%)",
+      "farge": "#acbc90",
       "foreldre": [
         "NN-NA-TI-T24-E-1"
       ],
@@ -13317,7 +13317,7 @@
       }
     },
     {
-      "farge": "hsl(95, 9%, 57%)",
+      "farge": "#8f9b86",
       "foreldre": [
         "NN-NA-TI-T29-E-1"
       ],
@@ -13773,7 +13773,7 @@
       }
     },
     {
-      "farge": "hsl(39, 6%, 69%)",
+      "farge": "#b5b2ad",
       "foreldre": [
         "NN-NA-TI-T29-E-1"
       ],
@@ -18839,7 +18839,7 @@
       }
     },
     {
-      "farge": "hsl(67, 17%, 60%)",
+      "farge": "#a7ab89",
       "foreldre": [
         "NN-NA-TI-T32-E-1"
       ],
@@ -19005,7 +19005,7 @@
       }
     },
     {
-      "farge": "hsl(69, 20%, 65%)",
+      "farge": "#b3b894",
       "foreldre": [
         "NN-NA-TI-T32-E-2"
       ],
@@ -19481,7 +19481,7 @@
       }
     },
     {
-      "farge": "hsl(77, 33%, 64%)",
+      "farge": "#afc184",
       "foreldre": [
         "NN-NA-TI-T32-E-3"
       ],
@@ -19762,7 +19762,7 @@
       }
     },
     {
-      "farge": "hsl(81, 23%, 62%)",
+      "farge": "#a4b487",
       "foreldre": [
         "NN-NA-TI-T32-E-2"
       ],
@@ -19968,7 +19968,7 @@
       }
     },
     {
-      "farge": "hsl(89, 30%, 65%)",
+      "farge": "#a6c08a",
       "foreldre": [
         "NN-NA-TI-T32-E-3"
       ],
@@ -20224,7 +20224,7 @@
       }
     },
     {
-      "farge": "hsl(85, 33%, 62%)",
+      "farge": "#a3be7e",
       "foreldre": [
         "NN-NA-TI-T32-E-3"
       ],
@@ -20455,7 +20455,7 @@
       }
     },
     {
-      "farge": "hsl(99, 23%, 72%)",
+      "farge": "#b1c7a6",
       "foreldre": [
         "NN-NA-TI-T32-E-3"
       ],
@@ -23011,7 +23011,7 @@
       }
     },
     {
-      "farge": "hsl(65, 24%, 77%)",
+      "farge": "#d1d4b7",
       "foreldre": [
         "NN-NA-TI-T32-E-3"
       ],
@@ -26868,7 +26868,7 @@
       }
     },
     {
-      "farge": "hsl(74, 29%, 73%)",
+      "farge": "#c5cea5",
       "foreldre": [
         "NN-NA-TI-T45-E-2"
       ],
@@ -27134,7 +27134,7 @@
       }
     },
     {
-      "farge": "hsl(85, 40%, 59%)",
+      "farge": "#9cc06b",
       "foreldre": [
         "NN-NA-TI-T45-E-2"
       ],
@@ -30600,7 +30600,7 @@
       }
     },
     {
-      "farge": "hsl(64, 28%, 61%)",
+      "farge": "#b3b77f",
       "foreldre": [
         "NN-NA-TI-V4-E-2"
       ],
@@ -33637,7 +33637,7 @@
       }
     },
     {
-      "farge": "hsl(45, 8%, 50%)",
+      "farge": "#8a8576",
       "foreldre": [
         "NN-NA-TI-M"
       ],
@@ -33708,7 +33708,7 @@
       }
     },
     {
-      "farge": "hsl(43, 14%, 61%)",
+      "farge": "#a9a18c",
       "foreldre": [
         "NN-NA-TI-M"
       ],
@@ -33785,7 +33785,7 @@
       }
     },
     {
-      "farge": "hsl(100, 1%, 79%)",
+      "farge": "#c9cac9",
       "foreldre": [
         "NN-NA-TI-M"
       ],
@@ -33850,7 +33850,7 @@
       }
     },
     {
-      "farge": "hsl(61, 30%, 63%)",
+      "farge": "#bcbd85",
       "foreldre": [
         "NN-NA-TI-M"
       ],
@@ -33903,7 +33903,7 @@
       }
     },
     {
-      "farge": "hsl(147, 9%, 60%)",
+      "farge": "#8fa197",
       "foreldre": [
         "NN-NA-TI-M"
       ],
@@ -33944,7 +33944,7 @@
       }
     },
     {
-      "farge": "hsl(104, 16%, 65%)",
+      "farge": "#9fb497",
       "foreldre": [
         "NN-NA-TI-M"
       ],
@@ -33991,7 +33991,7 @@
       }
     },
     {
-      "farge": "hsl(47, 6%, 49%)",
+      "farge": "#858276",
       "foreldre": [
         "NN-NA-TI-M"
       ],
@@ -34408,7 +34408,7 @@
       }
     },
     {
-      "farge": "hsl(54, 5%, 61%)",
+      "farge": "#a1a097",
       "foreldre": [
         "NN-NA-TI-L"
       ],
@@ -34531,7 +34531,7 @@
       }
     },
     {
-      "farge": "hsl(79, 15%, 60%)",
+      "farge": "#9fa98a",
       "foreldre": [
         "NN-NA-TI-L"
       ],
@@ -34584,7 +34584,7 @@
       }
     },
     {
-      "farge": "hsl(82, 29%, 59%)",
+      "farge": "#9eb479",
       "foreldre": [
         "NN-NA-TI-L"
       ],
@@ -34735,7 +34735,7 @@
       }
     },
     {
-      "farge": "hsl(81, 13%, 65%)",
+      "farge": "#aab29b",
       "foreldre": [
         "NN-NA-TI-L"
       ],
@@ -34882,7 +34882,7 @@
       }
     },
     {
-      "farge": "hsl(89, 11%, 66%)",
+      "farge": "#aab3a0",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -34941,7 +34941,7 @@
       }
     },
     {
-      "farge": "hsl(93, 4%, 70%)",
+      "farge": "#b1b5ae",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -35012,7 +35012,7 @@
       }
     },
     {
-      "farge": "hsl(92, 41%, 47%)",
+      "farge": "#76ab47",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -35113,7 +35113,7 @@
       }
     },
     {
-      "farge": "hsl(0, 0%, 59%)",
+      "farge": "#989797",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -35178,7 +35178,7 @@
       }
     },
     {
-      "farge": "hsl(180, 2%, 73%)",
+      "farge": "#b8bbbb",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -35249,7 +35249,7 @@
       }
     },
     {
-      "farge": "hsl(62, 16%, 57%)",
+      "farge": "#a2a381",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -35320,7 +35320,7 @@
       }
     },
     {
-      "farge": "hsl(55, 17%, 50%)",
+      "farge": "#95926b",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -35385,7 +35385,7 @@
       }
     },
     {
-      "farge": "hsl(54, 26%, 65%)",
+      "farge": "#bdb88e",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36048,7 +36048,7 @@
       }
     },
     {
-      "farge": "hsl(76, 9%, 68%)",
+      "farge": "#b1b5a7",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36147,7 +36147,7 @@
       }
     },
     {
-      "farge": "hsl(42, 19%, 67%)",
+      "farge": "#bcb29c",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36200,7 +36200,7 @@
       }
     },
     {
-      "farge": "hsl(120, 6%, 64%)",
+      "farge": "#9da89d",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36253,7 +36253,7 @@
       }
     },
     {
-      "farge": "hsl(115, 5%, 70%)",
+      "farge": "#afb6ae",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36312,7 +36312,7 @@
       }
     },
     {
-      "farge": "hsl(69, 18%, 63%)",
+      "farge": "#acb190",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36365,7 +36365,7 @@
       }
     },
     {
-      "farge": "hsl(90, 1%, 79%)",
+      "farge": "#c9cac8",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36436,7 +36436,7 @@
       }
     },
     {
-      "farge": "hsl(196, 11%, 65%)",
+      "farge": "#9cabb0",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36513,7 +36513,7 @@
       }
     },
     {
-      "farge": "hsl(170, 3%, 80%)",
+      "farge": "#cbcdcd",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36560,7 +36560,7 @@
       }
     },
     {
-      "farge": "hsl(170, 3%, 80%)",
+      "farge": "#c9cccc",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36625,7 +36625,7 @@
       }
     },
     {
-      "farge": "hsl(81, 8%, 55%)",
+      "farge": "#909684",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36772,7 +36772,7 @@
       }
     },
     {
-      "farge": "hsl(74, 24%, 61%)",
+      "farge": "#a8b484",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36849,7 +36849,7 @@
       }
     },
     {
-      "farge": "hsl(87, 23%, 66%)",
+      "farge": "#abbd96",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -36938,7 +36938,7 @@
       }
     },
     {
-      "farge": "hsl(42, 25%, 70%)",
+      "farge": "#c5b99e",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -37050,7 +37050,7 @@
       }
     },
     {
-      "farge": "hsl(80, 4%, 70%)",
+      "farge": "#b2b4af",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -37097,7 +37097,7 @@
       }
     },
     {
-      "farge": "hsl(60, 3%, 64%)",
+      "farge": "#a6a6a1",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -37138,7 +37138,7 @@
       }
     },
     {
-      "farge": "hsl(37, 14%, 53%)",
+      "farge": "#998c77",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -37191,7 +37191,7 @@
       }
     },
     {
-      "farge": "hsl(168, 2%, 74%)",
+      "farge": "#bbbebd",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -37238,7 +37238,7 @@
       }
     },
     {
-      "farge": "hsl(77, 31%, 58%)",
+      "farge": "#a3b673",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -37403,7 +37403,7 @@
       }
     },
     {
-      "farge": "hsl(47, 4%, 70%)",
+      "farge": "#b4b3af",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -37526,7 +37526,7 @@
       }
     },
     {
-      "farge": "hsl(33, 24%, 73%)",
+      "farge": "#ccbdaa",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -37597,7 +37597,7 @@
       }
     },
     {
-      "farge": "hsl(69, 35%, 62%)",
+      "farge": "#b6c07d",
       "foreldre": [
         "NN-NA-TI-T"
       ],
@@ -37738,7 +37738,7 @@
       }
     },
     {
-      "farge": "hsl(89, 17%, 61%)",
+      "farge": "#9dad8c",
       "foreldre": [
         "NN-NA-TI-V"
       ],
@@ -37785,7 +37785,7 @@
       }
     },
     {
-      "farge": "hsl(71, 12%, 65%)",
+      "farge": "#adb19c",
       "foreldre": [
         "NN-NA-TI-V"
       ],
@@ -37844,7 +37844,7 @@
       }
     },
     {
-      "farge": "hsl(80, 18%, 67%)",
+      "farge": "#b1ba9d",
       "foreldre": [
         "NN-NA-TI-V"
       ],
@@ -37903,7 +37903,7 @@
       }
     },
     {
-      "farge": "hsl(51, 6%, 69%)",
+      "farge": "#b5b4ad",
       "foreldre": [
         "NN-NA-TI-V"
       ],
@@ -37956,7 +37956,7 @@
       }
     },
     {
-      "farge": "hsl(60, 1%, 72%)",
+      "farge": "#b9b9b7",
       "foreldre": [
         "NN-NA-TI-V"
       ],
@@ -38015,7 +38015,7 @@
       }
     },
     {
-      "farge": "hsl(336, 2%, 68%)",
+      "farge": "#afacad",
       "foreldre": [
         "NN-NA-TI-V"
       ],
@@ -38062,7 +38062,7 @@
       }
     },
     {
-      "farge": "hsl(87, 8%, 65%)",
+      "farge": "#a8aea0",
       "foreldre": [
         "NN-NA-TI-V"
       ],
@@ -38109,7 +38109,7 @@
       }
     },
     {
-      "farge": "hsl(54, 12%, 72%)",
+      "farge": "#c0beae",
       "foreldre": [
         "NN-NA-TI-V"
       ],
@@ -38404,7 +38404,7 @@
       }
     },
     {
-      "farge": "hsl(185, 4%, 72%)",
+      "farge": "#b4babb",
       "foreldre": [
         "NN-NA-TI-H"
       ],
@@ -38589,7 +38589,7 @@
       }
     },
     {
-      "farge": "hsl(113, 7%, 65%)",
+      "farge": "#9fab9e",
       "foreldre": [
         "NN-NA-TI-F"
       ],
@@ -38688,7 +38688,7 @@
       }
     },
     {
-      "farge": "hsl(107, 5%, 53%)",
+      "farge": "#838d80",
       "foreldre": [
         "NN-NA-TI-F"
       ],
@@ -38753,7 +38753,7 @@
       }
     },
     {
-      "farge": "hsl(81, 13%, 65%)",
+      "farge": "#aab29b",
       "foreldre": [
         "NN-NA-TI-F"
       ],
@@ -38902,7 +38902,7 @@
       }
     },
     {
-      "farge": "hsl(183, 76%, 74%)",
+      "farge": "#9fab9e",
       "foreldre": [
         "NN-NA-TI"
       ],
@@ -40915,7 +40915,7 @@
       }
     },
     {
-      "farge": "hsl(190, 40%, 65%)",
+      "farge": "#82beca",
       "foreldre": [
         "NN-NA-TI"
       ],
@@ -41521,7 +41521,7 @@
       }
     },
     {
-      "farge": "hsl(180, 43%, 93%)",
+      "farge": "#abb0b4",
       "foreldre": [
         "NN-NA-TI"
       ],
@@ -41562,7 +41562,7 @@
       }
     },
     {
-      "farge": "hsl(192, 48%, 74%)",
+      "farge": "#a1a097",
       "foreldre": [
         "NN-NA-TI"
       ],
@@ -43866,7 +43866,7 @@
       }
     },
     {
-      "farge": "hsl(221, 39%, 71%)",
+      "farge": "#8a8576",
       "foreldre": [
         "NN-NA-TI"
       ],
@@ -55512,7 +55512,7 @@
       }
     },
     {
-      "farge": "hsl(105, 26%, 72%)",
+      "farge": "#76ab47",
       "foreldre": [
         "NN-NA-TI"
       ],
@@ -67929,7 +67929,7 @@
       }
     },
     {
-      "farge": "hsl(27, 17%, 56%)",
+      "farge": "#a28d7b",
       "foreldre": [
         "NN-NA-TI-T28-E-2"
       ],
@@ -67943,7 +67943,7 @@
       }
     },
     {
-      "farge": "hsl(245, 5%, 75%)",
+      "farge": "#bcbbc2",
       "foreldre": [
         "NN-NA-TI-T28-E-3"
       ],
@@ -72657,7 +72657,7 @@
       }
     },
     {
-      "farge": "hsl(188, 7%, 65%)",
+      "farge": "#9faaab",
       "foreldre": [
         "NN-NA-TI-T35-E-2"
       ],
@@ -72671,7 +72671,7 @@
       }
     },
     {
-      "farge": "hsl(78, 23%, 64%)",
+      "farge": "#abb88e",
       "foreldre": [
         "NN-NA-TI-T35-E-3"
       ],
@@ -72817,7 +72817,7 @@
       }
     },
     {
-      "farge": "hsl(80, 4%, 70%)",
+      "farge": "#b2b4af",
       "foreldre": [
         "NN-NA-TI-T36-E-2"
       ],
@@ -72831,7 +72831,7 @@
       }
     },
     {
-      "farge": "hsl(52, 11%, 81%)",
+      "farge": "#d4d3ca",
       "foreldre": [
         "NN-NA-TI-T36-E-3"
       ],
@@ -72977,7 +72977,7 @@
       }
     },
     {
-      "farge": "hsl(74, 7%, 70%)",
+      "farge": "#b5b8ad",
       "foreldre": [
         "NN-NA-TI-T37-E-2"
       ],
@@ -73265,7 +73265,7 @@
       }
     },
     {
-      "farge": "hsl(60, 4%, 65%)",
+      "farge": "#a8a8a2",
       "foreldre": [
         "NN-NA-TI-T39-E-2"
       ],
@@ -73279,7 +73279,7 @@
       }
     },
     {
-      "farge": "hsl(120, 1%, 75%)",
+      "farge": "#bdbfbd",
       "foreldre": [
         "NN-NA-TI-T39-E-3"
       ],
@@ -77102,7 +77102,7 @@
       }
     },
     {
-      "farge": "hsl(65, 29%, 60%)",
+      "farge": "#b2b77b",
       "foreldre": [
         "NN-NA-TI-T7-E-5"
       ],
@@ -77679,7 +77679,7 @@
       }
     },
     {
-      "farge": "hsl(40, 52%, 82%)",
+      "farge": "#baaa8f",
       "foreldre": [
         "NN-NA-TI"
       ],
@@ -81471,7 +81471,7 @@
       }
     },
     {
-      "farge": "hsl(38, 12%, 61%)",
+      "farge": "#a8a091",
       "foreldre": [
         "NN-NA-TI-V5-E-2"
       ],
@@ -82434,7 +82434,7 @@
       }
     },
     {
-      "farge": "hsl(193, 13%, 55%)",
+      "farge": "#7c959b",
       "foreldre": [
         "NN-NA-TI-V7-E-2"
       ],
@@ -107913,6 +107913,7 @@
       "type": "flagg"
     },
     {
+      "farge": "#f0e6db",
       "foreldre": [
         "NN-NA"
       ],
@@ -117104,7 +117105,7 @@
       }
     },
     {
-      "farge": "hsl(120, 40%, 70%)",
+      "farge": "#abba99",
       "foreldre": [],
       "infoUrl": "https://www.artsdatabanken.no/Pages/222921",
       "kart": {
@@ -117118,6 +117119,7 @@
       }
     },
     {
+      "farge": "#dbdbf0",
       "foreldre": [
         "NN-NA"
       ],
@@ -117408,7 +117410,7 @@
   ],
   "meta": {
     "tittel": "Natursystem",
-    "produsertUtc": "2019-09-08T12:36:55.848Z",
+    "produsertUtc": "2019-09-09T09:53:06.653Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/natursystem.json",
     "tool": {
