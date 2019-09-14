@@ -107520,7 +107520,9 @@
         "NN-NA-LKM"
       ],
       "infoUrl": "https://www.artsdatabanken.no/Pages/137908",
-      "ingress": "Innholdet av kalsium (’kalk’) og andre viktige plantenæringsstoffer i jorda, samt surhetsgraden (pH), er blant de aller viktigste miljøfaktorene i fastmark og våtmark. Økoklinen kalkinnhold (KA) beskriver samvariasjonen mellom disse faktorene – kalkrik jord er mindre sur og har høyere innhold av mange andre næringsstoffer enn sur jord. Variasjonen i næringsstoffer og pH påvirker både hvilke plantearter som kan trives på et sted og hvilke dyrearter som finnes i jord og vann. Man finner forskjellige planter på kalkrik jord og på sur jord, og blir vannet i innsjøer og elver for surt, er det mange fiskearter som ikke trives der lengre.",
+      "ingress": {
+        "nb": "Innholdet av kalsium (’kalk’) og andre viktige plantenæringsstoffer i jorda, samt surhetsgraden (pH), er blant de aller viktigste miljøfaktorene i fastmark og våtmark. Økoklinen kalkinnhold (KA) beskriver samvariasjonen mellom disse faktorene – kalkrik jord er mindre sur og har høyere innhold av mange andre næringsstoffer enn sur jord. Variasjonen i næringsstoffer og pH påvirker både hvilke plantearter som kan trives på et sted og hvilke dyrearter som finnes i jord og vann. Man finner forskjellige planter på kalkrik jord og på sur jord, og blir vannet i innsjøer og elver for surt, er det mange fiskearter som ikke trives der lengre."
+      },
       "kart": {
         "målestokk": 5000
       },
@@ -108138,7 +108140,9 @@
         "NN-NA"
       ],
       "infoUrl": "https://artsdatabanken.no/Pages/179717",
-      "ingress": "Lokale komplekse miljøvariabler (LKM) er definert som «variabler som hver består av flere enkeltmiljøvariabler som samvarierer i mer eller mindre sterk grad, og som gir opphav til variasjon i artssammensetning på relativt fin romlig skala og som har en virkning som vedvarer over relativt lang tid [typisk mer enn 100(–200) år]»",
+      "ingress": {
+        "nb": "Lokale komplekse miljøvariabler (LKM) er definert som «variabler som hver består av flere enkeltmiljøvariabler som samvarierer i mer eller mindre sterk grad, og som gir opphav til variasjon i artssammensetning på relativt fin romlig skala og som har en virkning som vedvarer over relativt lang tid [typisk mer enn 100(–200) år]»"
+      },
       "kart": {
         "målestokk": 5000
       },
@@ -109213,7 +109217,9 @@
         "NN-NA-LKM"
       ],
       "infoUrl": "https://www.artsdatabanken.no/Pages/179771",
-      "ingress": "Sedimentets evne til å motstå vannerosjon; målt som kritisk skjærstyrke, samt sedimentets evne til å motstå andre ytre påvirkninger slik det kommer til uttrykk gjennom sedimentets kornstørrelsesfordeling».",
+      "ingress": {
+        "nb": "Sedimentets evne til å motstå vannerosjon; målt som kritisk skjærstyrke, samt sedimentets evne til å motstå andre ytre påvirkninger slik det kommer til uttrykk gjennom sedimentets kornstørrelsesfordeling»."
+      },
       "kart": {
         "format": {
           "raster_gradient": {
@@ -109247,7 +109253,6 @@
       "foreldre": [
         "NN-NA-LKM-S3E"
       ],
-      "ingress": "",
       "intervall": [
         {
           "maxTekst": "",
@@ -109274,7 +109279,9 @@
       "foreldre": [
         "NN-NA-LKM-S3E"
       ],
-      "ingress": "suspensjon",
+      "ingress": {
+        "nb": "suspensjon"
+      },
       "intervall": [
         {
           "max": 0.0625,
@@ -109304,7 +109311,9 @@
       "foreldre": [
         "NN-NA-LKM-S3E"
       ],
-      "ingress": "fin og middels sand, løst mudder",
+      "ingress": {
+        "nb": "fin og middels sand, løst mudder"
+      },
       "intervall": [
         {
           "max": 0.5,
@@ -109335,7 +109344,9 @@
       "foreldre": [
         "NN-NA-LKM-S3E"
       ],
-      "ingress": "grov silt; grov sand",
+      "ingress": {
+        "nb": "grov silt; grov sand"
+      },
       "intervall": [
         {
           "max": 0.0625,
@@ -109374,7 +109385,9 @@
       "foreldre": [
         "NN-NA-LKM-S3E"
       ],
-      "ingress": "fin og middels silt; fin og middels grus",
+      "ingress": {
+        "nb": "fin og middels silt; fin og middels grus"
+      },
       "intervall": [
         {
           "max": 0.25,
@@ -109413,7 +109426,9 @@
       "foreldre": [
         "NN-NA-LKM-S3E"
       ],
-      "ingress": "leire; grov grus",
+      "ingress": {
+        "nb": "leire; grov grus"
+      },
       "intervall": [
         {
           "max": 0.001953,
@@ -109452,7 +109467,9 @@
       "foreldre": [
         "NN-NA-LKM-S3E"
       ],
-      "ingress": "fast leire; stein",
+      "ingress": {
+        "nb": "fast leire; stein"
+      },
       "intervall": [
         {
           "max": 0.001953,
@@ -109491,7 +109508,9 @@
       "foreldre": [
         "NN-NA-LKM-S3E"
       ],
-      "ingress": "blokker",
+      "ingress": {
+        "nb": "blokker"
+      },
       "intervall": [
         {
           "max": 4096,
@@ -109522,7 +109541,9 @@
         "NN-NA-LKM"
       ],
       "infoUrl": "https://www.artsdatabanken.no/Pages/179772",
-      "ingress": "Organisk og uorganisk materiale med kornstørrelse < 1/16 mm (silt og leire). Finmaterialinnhold angis som vektprosentandel i sedimentet.",
+      "ingress": {
+        "nb": "Organisk og uorganisk materiale med kornstørrelse < 1/16 mm (silt og leire). Finmaterialinnhold angis som vektprosentandel i sedimentet."
+      },
       "kart": {
         "format": {
           "raster_gradient": {
@@ -109556,7 +109577,9 @@
       "foreldre": [
         "NN-NA-LKM-S3F"
       ],
-      "ingress": "suspensjon",
+      "ingress": {
+        "nb": "suspensjon"
+      },
       "intervall": {
         "max": 1,
         "maxTekst": "",
@@ -109584,7 +109607,9 @@
       "foreldre": [
         "NN-NA-LKM-S3F"
       ],
-      "ingress": "suspensjon av løst finpartikulært materiale",
+      "ingress": {
+        "nb": "suspensjon av løst finpartikulært materiale"
+      },
       "intervall": {
         "max": 0.01,
         "maxTekst": "1",
@@ -109612,7 +109637,9 @@
       "foreldre": [
         "NN-NA-LKM-S3F"
       ],
-      "ingress": "suspensjon",
+      "ingress": {
+        "nb": "suspensjon"
+      },
       "intervall": {
         "max": 0.1,
         "maxTekst": "10",
@@ -109640,7 +109667,9 @@
       "foreldre": [
         "NN-NA-LKM-S3F"
       ],
-      "ingress": "suspensjon",
+      "ingress": {
+        "nb": "suspensjon"
+      },
       "intervall": {
         "max": 0.3,
         "maxTekst": "30",
@@ -109668,7 +109697,9 @@
       "foreldre": [
         "NN-NA-LKM-S3F"
       ],
-      "ingress": "suspensjon",
+      "ingress": {
+        "nb": "suspensjon"
+      },
       "intervall": {
         "max": 0.6,
         "maxTekst": "60",
@@ -117656,7 +117687,7 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-09-14T20:53:16.204Z",
+    "produsertUtc": "2019-09-14T21:02:12.124Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.json",
     "tool": {
@@ -117664,5 +117695,6 @@
       "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme"
     },
     "elementer": 4192
-  }
+  },
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.schema.json#"
 }
