@@ -17,7 +17,12 @@
             }
           },
           "ingress": {
-            "type": "string"
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              }
+            }
           },
           "kart": {
             "type": "object",
@@ -28,6 +33,14 @@
               "format": {
                 "type": "object",
                 "properties": {
+                  "raster_indexed": {
+                    "type": "object",
+                    "properties": {
+                      "index": {
+                        "type": "number"
+                      }
+                    }
+                  },
                   "raster_gradient": {
                     "type": "object",
                     "properties": {
@@ -250,9 +263,6 @@
           "type": "number"
         }
       }
-    },
-    "$schema": {
-      "type": "string"
     }
   }
 }
