@@ -28,7 +28,10 @@
             "type": "object",
             "properties": {
               "målestokk": {
-                "type": "number"
+                "type": [
+                  "number",
+                  "null"
+                ]
               },
               "format": {
                 "type": "object",
@@ -77,7 +80,10 @@
             "type": "string"
           },
           "nivå": {
-            "type": "string"
+            "type": [
+              "string",
+              "null"
+            ]
           },
           "relasjon": {
             "type": "array",
@@ -118,6 +124,9 @@
                 "type": "string"
               }
             }
+          },
+          "url": {
+            "type": "string"
           },
           "sortering": {
             "type": "number"
@@ -206,6 +215,14 @@
               ]
             }
           },
+          "brødtekst": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              }
+            }
+          },
           "normalisertVerdi": {
             "type": "array",
             "items": {
@@ -220,6 +237,7 @@
           "nivå",
           "relasjon",
           "tittel",
+          "url",
           "farge",
           "ingress",
           "sortering",
@@ -263,6 +281,20 @@
           "type": "number"
         }
       }
+    },
+    "$schema": {
+      "type": "string"
     }
+  },
+  "meta": {
+    "tittel": "Type.schema",
+    "produsertUtc": "2019-09-23T05:27:04.014Z",
+    "utgiver": "Artsdatabanken",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.schema.json",
+    "tool": {
+      "name": "natursystem-lastejobb",
+      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme"
+    },
+    "elementer": 3
   }
 }
