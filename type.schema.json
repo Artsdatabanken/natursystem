@@ -28,10 +28,7 @@
             "type": "object",
             "properties": {
               "målestokk": {
-                "type": [
-                  "number",
-                  "null"
-                ]
+                "type": "number"
               },
               "format": {
                 "type": "object",
@@ -80,10 +77,7 @@
             "type": "string"
           },
           "nivå": {
-            "type": [
-              "string",
-              "null"
-            ]
+            "type": "string"
           },
           "relasjon": {
             "type": "array",
@@ -288,7 +282,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-09-23T05:27:04.014Z",
+    "produsertUtc": "2019-09-23T08:26:50.011Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.schema.json",
     "tool": {
