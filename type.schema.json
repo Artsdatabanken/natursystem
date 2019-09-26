@@ -16,13 +16,8 @@
               "type": "string"
             }
           },
-          "ingress": {
-            "type": "object",
-            "properties": {
-              "nb": {
-                "type": "string"
-              }
-            }
+          "infoUrl": {
+            "type": "string"
           },
           "kart": {
             "type": "object",
@@ -79,31 +74,8 @@
           "nivå": {
             "type": "string"
           },
-          "relasjon": {
-            "type": "array",
-            "items": {
-              "type": "object",
-              "properties": {
-                "erSubset": {
-                  "type": "boolean"
-                },
-                "kant": {
-                  "type": "string"
-                },
-                "kantRetur": {
-                  "type": "string"
-                },
-                "kode": {
-                  "type": "string"
-                }
-              },
-              "required": [
-                "erSubset",
-                "kant",
-                "kantRetur",
-                "kode"
-              ]
-            }
+          "sortering": {
+            "type": "number"
           },
           "tittel": {
             "type": "object",
@@ -122,11 +94,13 @@
           "url": {
             "type": "string"
           },
-          "sortering": {
-            "type": "number"
-          },
-          "infoUrl": {
-            "type": "string"
+          "ingress": {
+            "type": "object",
+            "properties": {
+              "nb": {
+                "type": "string"
+              }
+            }
           },
           "måleenhet": {
             "type": "string"
@@ -222,26 +196,52 @@
             "items": {
               "type": "number"
             }
+          },
+          "relasjon": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "kant": {
+                  "type": "string"
+                },
+                "kantRetur": {
+                  "type": "string"
+                },
+                "kode": {
+                  "type": "string"
+                },
+                "erSubset": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "kant",
+                "kantRetur",
+                "kode",
+                "erSubset"
+              ]
+            }
           }
         },
         "required": [
+          "farge",
           "foreldre",
+          "infoUrl",
           "kart",
           "kode",
           "nivå",
-          "relasjon",
+          "sortering",
           "tittel",
           "url",
-          "farge",
           "ingress",
-          "sortering",
           "autorkode",
           "intervall",
-          "infoUrl",
           "måleenhet",
           "type",
           "farge0",
-          "normalisertVerdi"
+          "normalisertVerdi",
+          "relasjon"
         ]
       }
     },
@@ -282,7 +282,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-09-23T08:26:50.011Z",
+    "produsertUtc": "2019-09-26T08:13:22.488Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.schema.json",
     "tool": {
