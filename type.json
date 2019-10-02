@@ -42590,7 +42590,7 @@
               ]
             },
             "visning": [
-              "kontinuerlig"
+              "avstand"
             ]
           }
         },
@@ -42602,7 +42602,6 @@
       "tittel": {
         "nb": "Limniske vannmasser"
       },
-      "type": "gradient_uten_barn",
       "url": "/Natur_i_Norge/Natursystem/Typeinndeling/Limniske_vannmasser"
     },
     {
@@ -42628,7 +42627,7 @@
               ]
             },
             "visning": [
-              "kontinuerlig"
+              "avstand"
             ]
           }
         },
@@ -42678,7 +42677,6 @@
       "tittel": {
         "nb": "Elvevannmasser"
       },
-      "type": "gradient_uten_barn",
       "url": "/Natur_i_Norge/Natursystem/Typeinndeling/Limniske_vannmasser/Elvevannmasser"
     },
     {
@@ -127458,7 +127456,7 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-10-02T11:42:51.047Z",
+    "produsertUtc": "2019-10-02T19:04:57.829Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.json",
     "tool": {
