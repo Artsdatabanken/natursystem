@@ -35228,30 +35228,32 @@
       "måleenhet": "°",
       "nivå": "Verdi",
       "palett": [
-        {
-          "color": "#fff",
-          "level": 0
-        },
-        {
-          "color": "#def",
-          "level": 1
-        },
-        {
-          "color": "#bbb",
-          "level": 64
-        },
-        {
-          "color": "#fed",
-          "level": 128
-        },
-        {
-          "color": "#fff",
-          "level": 192
-        },
-        {
-          "color": "#def",
-          "level": 255
-        }
+        [
+          {
+            "color": "#fff",
+            "level": 0
+          },
+          {
+            "color": "#bbf",
+            "level": 1
+          },
+          {
+            "color": "#ff9",
+            "level": 64
+          },
+          {
+            "color": "#a84",
+            "level": 128
+          },
+          {
+            "color": "#77f",
+            "level": 192
+          },
+          {
+            "color": "#bbf",
+            "level": 255
+          }
+        ]
       ],
       "tittel": {
         "nb": "Eksponeringsretning"
@@ -127456,7 +127458,7 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-10-02T19:04:57.829Z",
+    "produsertUtc": "2019-11-01T16:34:41.771Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.json",
     "tool": {
