@@ -17506,9 +17506,9 @@
       "kode": "NN-NA-BS-3TO",
       "nivå": "Variabel",
       "tittel": {
-        "nb": "Torvmarksformer"
+        "nb": "Torvmarksform"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform"
     },
     {
       "foreldre": [
@@ -17522,7 +17522,7 @@
       "tittel": {
         "nb": "Bakkemyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Bakkemyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Bakkemyr"
     },
     {
       "foreldre": [
@@ -17536,7 +17536,7 @@
       "tittel": {
         "nb": "Strengblandingsmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Strengblandingsmyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Strengblandingsmyr"
     },
     {
       "foreldre": [
@@ -17550,7 +17550,7 @@
       "tittel": {
         "nb": "Øyblandingsmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Øyblandingsmyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Øyblandingsmyr"
     },
     {
       "foreldre": [
@@ -17564,7 +17564,7 @@
       "tittel": {
         "nb": "Djupkilde"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Djupkilde"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Djupkilde"
     },
     {
       "foreldre": [
@@ -17578,7 +17578,7 @@
       "tittel": {
         "nb": "Flatmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Flatmyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Flatmyr"
     },
     {
       "foreldre": [
@@ -17592,7 +17592,7 @@
       "tittel": {
         "nb": "Flommyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Flommyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Flommyr"
     },
     {
       "foreldre": [
@@ -17606,7 +17606,7 @@
       "tittel": {
         "nb": "Gjennomstrømningsmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Gjennomstrømningsmyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Gjennomstrømningsmyr"
     },
     {
       "foreldre": [
@@ -17620,7 +17620,7 @@
       "tittel": {
         "nb": "Gjenvoksningsmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Gjenvoksningsmyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Gjenvoksningsmyr"
     },
     {
       "foreldre": [
@@ -17634,7 +17634,7 @@
       "tittel": {
         "nb": "Atlantisk høymyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Atlantisk_høymyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Atlantisk_høymyr"
     },
     {
       "foreldre": [
@@ -17648,7 +17648,7 @@
       "tittel": {
         "nb": "Eksentrisk høymyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Eksentrisk_høymyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Eksentrisk_høymyr"
     },
     {
       "foreldre": [
@@ -17662,7 +17662,7 @@
       "tittel": {
         "nb": "Konsentrisk høymyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Konsentrisk_høymyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Konsentrisk_høymyr"
     },
     {
       "foreldre": [
@@ -17676,7 +17676,7 @@
       "tittel": {
         "nb": "Kanthøymyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Kanthøymyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Kanthøymyr"
     },
     {
       "foreldre": [
@@ -17690,7 +17690,7 @@
       "tittel": {
         "nb": "Platåhøymyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Platåhøymyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Platåhøymyr"
     },
     {
       "foreldre": [
@@ -17704,7 +17704,7 @@
       "tittel": {
         "nb": "Palsmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Palsmyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Palsmyr"
     },
     {
       "foreldre": [
@@ -17718,7 +17718,7 @@
       "tittel": {
         "nb": "Polygonmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Polygonmyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Polygonmyr"
     },
     {
       "foreldre": [
@@ -17732,7 +17732,7 @@
       "tittel": {
         "nb": "Strengmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Strengmyr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Strengmyr"
     },
     {
       "foreldre": [
@@ -17746,7 +17746,7 @@
       "tittel": {
         "nb": "Terrengdekkende myr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksformer/Terrengdekkende_myr"
+      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Terrengdekkende_myr"
     },
     {
       "foreldre": [
@@ -35228,32 +35228,30 @@
       "måleenhet": "°",
       "nivå": "Verdi",
       "palett": [
-        [
-          {
-            "color": "#fff",
-            "level": 0
-          },
-          {
-            "color": "#bbf",
-            "level": 1
-          },
-          {
-            "color": "#ff9",
-            "level": 64
-          },
-          {
-            "color": "#a84",
-            "level": 128
-          },
-          {
-            "color": "#77f",
-            "level": 192
-          },
-          {
-            "color": "#bbf",
-            "level": 255
-          }
-        ]
+        {
+          "color": "#fff",
+          "level": 0
+        },
+        {
+          "color": "#bbf",
+          "level": 1
+        },
+        {
+          "color": "#ff9",
+          "level": 64
+        },
+        {
+          "color": "#a84",
+          "level": 128
+        },
+        {
+          "color": "#77f",
+          "level": 192
+        },
+        {
+          "color": "#bbf",
+          "level": 255
+        }
       ],
       "tittel": {
         "nb": "Eksponeringsretning"
@@ -127458,7 +127456,7 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-11-01T16:34:41.771Z",
+    "produsertUtc": "2019-11-08T08:18:02.712Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.json",
     "tool": {
