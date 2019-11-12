@@ -1,8 +1,24 @@
 {
   "items": [
     {
-      "farge": "#abba99",
+      "farge": "hsl(120, 40%, 70%)",
       "foreldre": [],
+      "infoUrl": "https://www.artsdatabanken.no/NiN",
+      "kart": {
+        "målestokk": 20000
+      },
+      "kode": "NN",
+      "nivå": "Natur i Norge",
+      "tittel": {
+        "nb": "Natur i Norge"
+      },
+      "url": "/Natur_i_Norge"
+    },
+    {
+      "farge": "#abba99",
+      "foreldre": [
+        "NN"
+      ],
       "infoUrl": "https://www.artsdatabanken.no/Pages/222921",
       "kart": {
         "målestokk": 20000
@@ -17506,7 +17522,8 @@
       "kode": "NN-NA-BS-3TO",
       "nivå": "Variabel",
       "tittel": {
-        "nb": "Torvmarksform"
+        "nb": "Torvmarksformer",
+        "url": "Torvmarksform"
       },
       "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform"
     },
@@ -61458,6 +61475,101 @@
       "kode": "NN-NA-TI-M8",
       "nivå": "Hovedtype",
       "relasjon": [
+        {
+          "kant": "mengdeart",
+          "kantRetur": "Habitat",
+          "kode": "AR-99603"
+        },
+        {
+          "kant": "kjennetegnende_tyngdepunktart",
+          "kantRetur": "Habitat",
+          "kode": "AR-99603"
+        },
+        {
+          "kant": "kjennetegnende_tyngdepunktart",
+          "kantRetur": "Habitat",
+          "kode": "AR-99737"
+        },
+        {
+          "kant": "tyngdepunktart",
+          "kantRetur": "Habitat",
+          "kode": "AR-99677"
+        },
+        {
+          "kant": "kjennetegnende_tyngdepunktart",
+          "kantRetur": "Habitat",
+          "kode": "AR-99698"
+        },
+        {
+          "kant": "vanlig_art",
+          "kantRetur": "Habitat",
+          "kode": "AR-99722"
+        },
+        {
+          "kant": "vanlig_art",
+          "kantRetur": "Habitat",
+          "kode": "AR-103310"
+        },
+        {
+          "kant": "vanlig_art",
+          "kantRetur": "Habitat",
+          "kode": "AR-100058"
+        },
+        {
+          "kant": "vanlig_art",
+          "kantRetur": "Habitat",
+          "kode": "AR-100061"
+        },
+        {
+          "kant": "kjennetegnende_tyngdepunktart",
+          "kantRetur": "Habitat",
+          "kode": "AR-99475"
+        },
+        {
+          "kant": "vanlig_art",
+          "kantRetur": "Habitat",
+          "kode": "AR-101845"
+        },
+        {
+          "kant": "vanlig_art",
+          "kantRetur": "Habitat",
+          "kode": "AR-101846"
+        },
+        {
+          "kant": "vanlig_art",
+          "kantRetur": "Habitat",
+          "kode": "AR-102818"
+        },
+        {
+          "kant": "vanlig_art",
+          "kantRetur": "Habitat",
+          "kode": "AR-100120"
+        },
+        {
+          "kant": "dominerende_mengdeart",
+          "kantRetur": "Habitat",
+          "kode": "AR-100132"
+        },
+        {
+          "kant": "vanlig_art",
+          "kantRetur": "Habitat",
+          "kode": "AR-100132"
+        },
+        {
+          "kant": "vanlig_art",
+          "kantRetur": "Habitat",
+          "kode": "AR-99789"
+        },
+        {
+          "kant": "kjennetegnende_tyngdepunktart",
+          "kantRetur": "Habitat",
+          "kode": "AR-99790"
+        },
+        {
+          "kant": "vanlig_art",
+          "kantRetur": "Habitat",
+          "kode": "AR-103183"
+        },
         {
           "erSubset": true,
           "kant": "definisjonsgrunnlag",
@@ -127456,14 +127568,14 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-11-08T08:18:02.712Z",
+    "produsertUtc": "2019-11-12T10:20:13.239Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.json",
     "tool": {
       "name": "natursystem-lastejobb",
       "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme"
     },
-    "elementer": 4192
+    "elementer": 4193
   },
   "$schema": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.schema.json#"
 }

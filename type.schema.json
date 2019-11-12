@@ -74,9 +74,6 @@
           "nivå": {
             "type": "string"
           },
-          "sortering": {
-            "type": "number"
-          },
           "tittel": {
             "type": "object",
             "properties": {
@@ -88,11 +85,17 @@
               },
               "en": {
                 "type": "string"
+              },
+              "url": {
+                "type": "string"
               }
             }
           },
           "url": {
             "type": "string"
+          },
+          "sortering": {
+            "type": "number"
           },
           "ingress": {
             "type": "object",
@@ -168,7 +171,19 @@
           "palett": {
             "type": "array",
             "items": {
-              "type": "array"
+              "type": "object",
+              "properties": {
+                "color": {
+                  "type": "string"
+                },
+                "level": {
+                  "type": "number"
+                }
+              },
+              "required": [
+                "color",
+                "level"
+              ]
             }
           },
           "brødtekst": {
@@ -219,9 +234,9 @@
           "kart",
           "kode",
           "nivå",
-          "sortering",
           "tittel",
           "url",
+          "sortering",
           "ingress",
           "autorkode",
           "intervall",
@@ -270,7 +285,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-11-01T16:34:41.917Z",
+    "produsertUtc": "2019-11-12T10:20:13.368Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.schema.json",
     "tool": {
