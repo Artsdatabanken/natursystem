@@ -37551,6 +37551,10 @@
       },
       "kode": "NN-NA-LKM-KA-A",
       "nivå": "Basistrinn",
+      "normalisertVerdi": [
+        0,
+        28
+      ],
       "tittel": {
         "nb": "Svært kalkfattig"
       },
@@ -37567,6 +37571,10 @@
       },
       "kode": "NN-NA-LKM-KA-B",
       "nivå": "Basistrinn",
+      "normalisertVerdi": [
+        28,
+        56
+      ],
       "tittel": {
         "nb": "Temmelig kalkfattig"
       },
@@ -37583,6 +37591,10 @@
       },
       "kode": "NN-NA-LKM-KA-C",
       "nivå": "Basistrinn",
+      "normalisertVerdi": [
+        56,
+        84
+      ],
       "tittel": {
         "nb": "Litt kalkfattig"
       },
@@ -37599,6 +37611,10 @@
       },
       "kode": "NN-NA-LKM-KA-D",
       "nivå": "Basistrinn",
+      "normalisertVerdi": [
+        84,
+        112
+      ],
       "tittel": {
         "nb": "Svak intermediær"
       },
@@ -37615,6 +37631,10 @@
       },
       "kode": "NN-NA-LKM-KA-E",
       "nivå": "Basistrinn",
+      "normalisertVerdi": [
+        112,
+        140
+      ],
       "tittel": {
         "nb": "Sterk intermediær"
       },
@@ -37631,6 +37651,10 @@
       },
       "kode": "NN-NA-LKM-KA-F",
       "nivå": "Basistrinn",
+      "normalisertVerdi": [
+        140,
+        168
+      ],
       "tittel": {
         "nb": "Litt kalkrik"
       },
@@ -37647,6 +37671,10 @@
       },
       "kode": "NN-NA-LKM-KA-G",
       "nivå": "Basistrinn",
+      "normalisertVerdi": [
+        168,
+        196
+      ],
       "tittel": {
         "nb": "Temmelig kalkrik"
       },
@@ -37663,6 +37691,10 @@
       },
       "kode": "NN-NA-LKM-KA-H",
       "nivå": "Basistrinn",
+      "normalisertVerdi": [
+        196,
+        224
+      ],
       "tittel": {
         "nb": "Svært kalkrik"
       },
@@ -37679,6 +37711,10 @@
       },
       "kode": "NN-NA-LKM-KA-I",
       "nivå": "Basistrinn",
+      "normalisertVerdi": [
+        224,
+        252
+      ],
       "tittel": {
         "nb": "Ekstremt kalkrik"
       },
@@ -127568,7 +127604,7 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2019-11-12T10:20:13.239Z",
+    "produsertUtc": "2020-02-01T12:33:08.294Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.json",
     "tool": {
