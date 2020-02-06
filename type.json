@@ -16687,6 +16687,7 @@
       "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Erosjonsformer_knyttet_til_breer/U-dal"
     },
     {
+      "farge": "#f44",
       "foreldre": [
         "NN-NA-BS-3"
       ],
@@ -16701,6 +16702,7 @@
       "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Elveløpsformer"
     },
     {
+      "farge": "#444",
       "foreldre": [
         "NN-NA-BS-3EL"
       ],
@@ -16715,6 +16717,7 @@
       "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Elveløpsformer/Blind_dal"
     },
     {
+      "farge": "#44F",
       "foreldre": [
         "NN-NA-BS-3EL"
       ],
@@ -16729,6 +16732,7 @@
       "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Elveløpsformer/Bekkekløft"
     },
     {
+      "farge": "#49d",
       "foreldre": [
         "NN-NA-BS-3EL"
       ],
@@ -16743,6 +16747,7 @@
       "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Elveløpsformer/Forgreinet_elveløp"
     },
     {
+      "farge": "#4d4",
       "foreldre": [
         "NN-NA-BS-3EL"
       ],
@@ -16757,6 +16762,7 @@
       "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Elveløpsformer/Kroksjø"
     },
     {
+      "farge": "#9d4",
       "foreldre": [
         "NN-NA-BS-3EL"
       ],
@@ -16771,6 +16777,7 @@
       "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Elveløpsformer/Meander"
     },
     {
+      "farge": "#934",
       "foreldre": [
         "NN-NA-BS-3EL"
       ],
@@ -127568,7 +127575,7 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2020-02-03T07:58:47.370Z",
+    "produsertUtc": "2020-02-06T09:49:36.097Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.json",
     "tool": {
