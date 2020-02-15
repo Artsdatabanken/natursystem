@@ -1,9 +1,7 @@
 {
   "items": [
     {
-      "farge": "hsl(120, 40%, 70%)",
       "foreldre": [],
-      "infoUrl": "https://www.artsdatabanken.no/NiN",
       "kart": {
         "målestokk": 20000
       },
@@ -17529,10 +17527,9 @@
       "kode": "NN-NA-BS-3TO",
       "nivå": "Variabel",
       "tittel": {
-        "nb": "Torvmarksformer",
-        "url": "Torvmarksform"
+        "nb": "Torvmarksformer"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform"
+      "url": "Torvmarksform"
     },
     {
       "foreldre": [
@@ -17546,7 +17543,7 @@
       "tittel": {
         "nb": "Bakkemyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Bakkemyr"
+      "url": "Torvmarksform/Bakkemyr"
     },
     {
       "foreldre": [
@@ -17560,7 +17557,7 @@
       "tittel": {
         "nb": "Strengblandingsmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Strengblandingsmyr"
+      "url": "Torvmarksform/Strengblandingsmyr"
     },
     {
       "foreldre": [
@@ -17574,7 +17571,7 @@
       "tittel": {
         "nb": "Øyblandingsmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Øyblandingsmyr"
+      "url": "Torvmarksform/Øyblandingsmyr"
     },
     {
       "foreldre": [
@@ -17588,7 +17585,7 @@
       "tittel": {
         "nb": "Djupkilde"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Djupkilde"
+      "url": "Torvmarksform/Djupkilde"
     },
     {
       "foreldre": [
@@ -17602,7 +17599,7 @@
       "tittel": {
         "nb": "Flatmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Flatmyr"
+      "url": "Torvmarksform/Flatmyr"
     },
     {
       "foreldre": [
@@ -17616,7 +17613,7 @@
       "tittel": {
         "nb": "Flommyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Flommyr"
+      "url": "Torvmarksform/Flommyr"
     },
     {
       "foreldre": [
@@ -17630,7 +17627,7 @@
       "tittel": {
         "nb": "Gjennomstrømningsmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Gjennomstrømningsmyr"
+      "url": "Torvmarksform/Gjennomstrømningsmyr"
     },
     {
       "foreldre": [
@@ -17644,7 +17641,7 @@
       "tittel": {
         "nb": "Gjenvoksningsmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Gjenvoksningsmyr"
+      "url": "Torvmarksform/Gjenvoksningsmyr"
     },
     {
       "foreldre": [
@@ -17658,7 +17655,7 @@
       "tittel": {
         "nb": "Atlantisk høymyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Atlantisk_høymyr"
+      "url": "Torvmarksform/Atlantisk_høymyr"
     },
     {
       "foreldre": [
@@ -17672,7 +17669,7 @@
       "tittel": {
         "nb": "Eksentrisk høymyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Eksentrisk_høymyr"
+      "url": "Torvmarksform/Eksentrisk_høymyr"
     },
     {
       "foreldre": [
@@ -17686,7 +17683,7 @@
       "tittel": {
         "nb": "Konsentrisk høymyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Konsentrisk_høymyr"
+      "url": "Torvmarksform/Konsentrisk_høymyr"
     },
     {
       "foreldre": [
@@ -17700,7 +17697,7 @@
       "tittel": {
         "nb": "Kanthøymyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Kanthøymyr"
+      "url": "Torvmarksform/Kanthøymyr"
     },
     {
       "foreldre": [
@@ -17714,7 +17711,7 @@
       "tittel": {
         "nb": "Platåhøymyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Platåhøymyr"
+      "url": "Torvmarksform/Platåhøymyr"
     },
     {
       "foreldre": [
@@ -17728,7 +17725,7 @@
       "tittel": {
         "nb": "Palsmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Palsmyr"
+      "url": "Torvmarksform/Palsmyr"
     },
     {
       "foreldre": [
@@ -17742,7 +17739,7 @@
       "tittel": {
         "nb": "Polygonmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Polygonmyr"
+      "url": "Torvmarksform/Polygonmyr"
     },
     {
       "foreldre": [
@@ -17756,7 +17753,7 @@
       "tittel": {
         "nb": "Strengmyr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Strengmyr"
+      "url": "Torvmarksform/Strengmyr"
     },
     {
       "foreldre": [
@@ -17770,7 +17767,7 @@
       "tittel": {
         "nb": "Terrengdekkende myr"
       },
-      "url": "/Natur_i_Norge/Natursystem/Beskrivelsessystem/Landform/Torvmarksform/Terrengdekkende_myr"
+      "url": "Torvmarksform/Terrengdekkende_myr"
     },
     {
       "foreldre": [
@@ -35664,7 +35661,23 @@
         "NN-NA-LKM"
       ],
       "kart": {
-        "målestokk": 5000
+        "målestokk": 5000,
+        "tegn": {
+          "punkt": [
+            [
+              0,
+              7
+            ],
+            [
+              5,
+              7
+            ],
+            [
+              10,
+              0
+            ]
+          ]
+        }
       },
       "kode": "NN-NA-LKM-BK",
       "nivå": "Miljøvariabel",
@@ -35694,7 +35707,23 @@
         "NN-NA-LKM-BK"
       ],
       "kart": {
-        "målestokk": 5000
+        "målestokk": 5000,
+        "tegn": {
+          "punkt": [
+            [
+              0,
+              7
+            ],
+            [
+              5,
+              7
+            ],
+            [
+              10,
+              0
+            ]
+          ]
+        }
       },
       "kode": "NN-NA-LKM-BK-A",
       "nivå": "Basistrinn",
@@ -127575,14 +127604,13 @@
   ],
   "meta": {
     "tittel": "Type",
-    "produsertUtc": "2020-02-06T09:49:36.097Z",
+    "produsertUtc": "2020-02-15T14:08:00.554Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.json",
+    "url": null,
     "tool": {
       "name": "natursystem-lastejobb",
       "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme"
     },
     "elementer": 4193
-  },
-  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.schema.json#"
+  }
 }
