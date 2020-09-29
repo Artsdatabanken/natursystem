@@ -116,6 +116,9 @@
           "altkode": {
             "type": "string"
           },
+          "type": {
+            "type": "string"
+          },
           "måleenhet": {
             "type": "string"
           },
@@ -172,9 +175,6 @@
                 "tittel"
               ]
             }
-          },
-          "type": {
-            "type": "string"
           },
           "farge0": {
             "type": "string"
@@ -250,10 +250,10 @@
           "sortering",
           "altkode",
           "ingress",
+          "type",
           "autorkode",
           "intervall",
           "måleenhet",
-          "type",
           "farge0",
           "normalisertVerdi",
           "relasjon"
@@ -297,7 +297,7 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2020-08-17T15:31:02.028Z",
+    "produsertUtc": "2020-09-29T11:59:05.705Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.schema.json",
     "tool": {
