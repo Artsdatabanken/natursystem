@@ -1,152 +1,86 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "type": "object",
-  "properties": {
-    "items": {
-      "type": "array",
+  "items": {
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "properties": {
+      "$schema": {
+        "type": "string"
+      },
       "items": {
-        "type": "object",
-        "properties": {
-          "foreldre": {
-            "type": "array",
-            "items": {
+        "items": {
+          "properties": {
+            "altkode": {
               "type": "string"
-            }
-          },
-          "kart": {
-            "type": "object",
-            "properties": {
-              "målestokk": {
-                "type": "number"
-              },
-              "format": {
-                "type": "object",
-                "properties": {
-                  "raster_indexed": {
-                    "type": "object",
-                    "properties": {
-                      "index": {
-                        "type": "number"
-                      }
-                    }
-                  },
-                  "raster_gradient": {
-                    "type": "object",
-                    "properties": {
-                      "intervall": {
-                        "type": "object",
-                        "properties": {
-                          "normalisertVerdi": {
-                            "type": "array",
-                            "items": {
-                              "type": "number"
-                            }
-                          },
-                          "original": {
-                            "type": "array",
-                            "items": {
-                              "type": "number"
-                            }
-                          }
-                        }
-                      },
-                      "visning": {
-                        "type": "array",
-                        "items": {
-                          "type": "string"
-                        }
-                      }
-                    }
-                  }
-                }
-              },
-              "tegn": {
-                "type": "object",
-                "properties": {
-                  "punkt": {
-                    "type": "array",
-                    "items": {
-                      "type": "array"
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "kode": {
-            "type": "string"
-          },
-          "nivå": {
-            "type": "string"
-          },
-          "tittel": {
-            "type": "object",
-            "properties": {
-              "nb": {
-                "type": "string"
-              },
-              "la": {
-                "type": "string"
-              },
-              "en": {
-                "type": "string"
-              }
-            }
-          },
-          "url": {
-            "type": "string"
-          },
-          "farge": {
-            "type": "string"
-          },
-          "infoUrl": {
-            "type": "string"
-          },
-          "sortering": {
-            "type": "number"
-          },
-          "ingress": {
-            "type": "object",
-            "properties": {
-              "nb": {
-                "type": "string"
-              }
-            }
-          },
-          "altkode": {
-            "type": "string"
-          },
-          "type": {
-            "type": "string"
-          },
-          "måleenhet": {
-            "type": "string"
-          },
-          "autorkode": {
-            "type": "string"
-          },
-          "intervall": {
-            "type": "object",
-            "properties": {
-              "max": {
-                "type": "number"
-              },
-              "maxTekst": {
-                "type": "string"
-              },
-              "min": {
-                "type": "number"
-              },
-              "minTekst": {
-                "type": "string"
-              },
-              "måleenhet": {
-                "type": "string"
-              }
             },
-            "items": {
-              "type": "object",
+            "autorkode": {
+              "type": "string"
+            },
+            "brødtekst": {
               "properties": {
+                "nb": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
+            "farge": {
+              "type": "string"
+            },
+            "farge0": {
+              "type": "string"
+            },
+            "foreldre": {
+              "items": {
+                "type": "string"
+              },
+              "type": "array"
+            },
+            "infoUrl": {
+              "type": "string"
+            },
+            "ingress": {
+              "properties": {
+                "nb": {
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            },
+            "intervall": {
+              "items": {
+                "properties": {
+                  "max": {
+                    "type": "number"
+                  },
+                  "maxTekst": {
+                    "type": "string"
+                  },
+                  "min": {
+                    "type": "number"
+                  },
+                  "minTekst": {
+                    "type": "string"
+                  },
+                  "måleenhet": {
+                    "type": "string"
+                  },
+                  "tittel": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "maxTekst",
+                  "min",
+                  "minTekst",
+                  "måleenhet",
+                  "max",
+                  "tittel"
+                ],
+                "type": "object"
+              },
+              "properties": {
+                "max": {
+                  "type": "number"
+                },
                 "maxTekst": {
                   "type": "string"
                 },
@@ -158,152 +92,1890 @@
                 },
                 "måleenhet": {
                   "type": "string"
-                },
-                "tittel": {
-                  "type": "string"
-                },
-                "max": {
-                  "type": "number"
                 }
               },
-              "required": [
-                "maxTekst",
-                "min",
-                "minTekst",
-                "måleenhet",
-                "max",
-                "tittel"
-              ]
-            }
-          },
-          "farge0": {
-            "type": "string"
-          },
-          "palett": {
-            "type": "array",
-            "items": {
-              "type": "object",
+              "type": "object"
+            },
+            "kart": {
               "properties": {
-                "color": {
-                  "type": "string"
+                "format": {
+                  "properties": {
+                    "raster_gradient": {
+                      "properties": {
+                        "intervall": {
+                          "properties": {
+                            "normalisertVerdi": {
+                              "items": {
+                                "type": "number"
+                              },
+                              "type": "array"
+                            },
+                            "original": {
+                              "items": {
+                                "type": "number"
+                              },
+                              "type": "array"
+                            }
+                          },
+                          "type": "object"
+                        },
+                        "visning": {
+                          "items": {
+                            "type": "string"
+                          },
+                          "type": "array"
+                        }
+                      },
+                      "type": "object"
+                    },
+                    "raster_indexed": {
+                      "properties": {
+                        "index": {
+                          "type": "number"
+                        }
+                      },
+                      "type": "object"
+                    }
+                  },
+                  "type": "object"
                 },
-                "level": {
+                "målestokk": {
                   "type": "number"
+                },
+                "tegn": {
+                  "properties": {
+                    "punkt": {
+                      "items": {
+                        "type": "array"
+                      },
+                      "type": "array"
+                    }
+                  },
+                  "type": "object"
                 }
               },
-              "required": [
-                "color",
-                "level"
-              ]
-            }
-          },
-          "brødtekst": {
-            "type": "object",
-            "properties": {
-              "nb": {
-                "type": "string"
-              }
-            }
-          },
-          "normalisertVerdi": {
-            "type": "array",
-            "items": {
+              "type": "object"
+            },
+            "kode": {
+              "type": "string"
+            },
+            "måleenhet": {
+              "type": "string"
+            },
+            "nivå": {
+              "type": "string"
+            },
+            "normalisertVerdi": {
+              "items": {
+                "type": "number"
+              },
+              "type": "array"
+            },
+            "palett": {
+              "items": {
+                "properties": {
+                  "color": {
+                    "type": "string"
+                  },
+                  "level": {
+                    "type": "number"
+                  }
+                },
+                "required": [
+                  "color",
+                  "level"
+                ],
+                "type": "object"
+              },
+              "type": "array"
+            },
+            "relasjon": {
+              "items": {
+                "properties": {
+                  "erSubset": {
+                    "type": "boolean"
+                  },
+                  "kant": {
+                    "type": "string"
+                  },
+                  "kantRetur": {
+                    "type": "string"
+                  },
+                  "kode": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "kant",
+                  "kantRetur",
+                  "kode",
+                  "erSubset"
+                ],
+                "type": "object"
+              },
+              "type": "array"
+            },
+            "sortering": {
               "type": "number"
-            }
-          },
-          "relasjon": {
-            "type": "array",
-            "items": {
-              "type": "object",
+            },
+            "tittel": {
               "properties": {
-                "kant": {
+                "en": {
                   "type": "string"
                 },
-                "kantRetur": {
+                "la": {
                   "type": "string"
                 },
-                "kode": {
+                "nb": {
                   "type": "string"
-                },
-                "erSubset": {
-                  "type": "boolean"
                 }
               },
-              "required": [
-                "kant",
-                "kantRetur",
-                "kode",
-                "erSubset"
-              ]
-            }
-          }
-        },
-        "required": [
-          "foreldre",
-          "kart",
-          "kode",
-          "nivå",
-          "tittel",
-          "url",
-          "farge",
-          "infoUrl",
-          "sortering",
-          "altkode",
-          "ingress",
-          "type",
-          "autorkode",
-          "intervall",
-          "måleenhet",
-          "farge0",
-          "normalisertVerdi",
-          "relasjon"
-        ]
-      }
-    },
-    "meta": {
-      "type": "object",
-      "properties": {
-        "tittel": {
-          "type": "string"
-        },
-        "produsertUtc": {
-          "type": "string"
-        },
-        "utgiver": {
-          "type": "string"
-        },
-        "url": {
-          "type": "string"
-        },
-        "tool": {
-          "type": "object",
-          "properties": {
-            "name": {
+              "type": "object"
+            },
+            "type": {
               "type": "string"
             },
             "url": {
               "type": "string"
             }
+          },
+          "required": [
+            "foreldre",
+            "kart",
+            "kode",
+            "nivå",
+            "tittel",
+            "url",
+            "farge",
+            "infoUrl",
+            "sortering",
+            "altkode",
+            "ingress",
+            "type",
+            "autorkode",
+            "intervall",
+            "måleenhet",
+            "farge0",
+            "normalisertVerdi",
+            "relasjon"
+          ],
+          "type": "object"
+        },
+        "type": "array"
+      },
+      "meta": {
+        "properties": {
+          "elementer": {
+            "type": "number"
+          },
+          "produsertUtc": {
+            "type": "string"
+          },
+          "source": {
+            "items": {
+              "properties": {
+                "elementer": {
+                  "type": "number"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "produsertUtc": {
+                  "type": "string"
+                },
+                "source": {
+                  "items": {
+                    "properties": {
+                      "elementer": {
+                        "type": "number"
+                      },
+                      "name": {
+                        "type": "string"
+                      },
+                      "produsertUtc": {
+                        "type": "string"
+                      },
+                      "source": {
+                        "items": {
+                          "properties": {
+                            "elementer": {
+                              "type": "number"
+                            },
+                            "name": {
+                              "type": "string"
+                            },
+                            "produsertUtc": {
+                              "type": "string"
+                            },
+                            "source": {
+                              "items": {
+                                "properties": {
+                                  "elementer": {
+                                    "type": "number"
+                                  },
+                                  "name": {
+                                    "type": "string"
+                                  },
+                                  "produsertUtc": {
+                                    "type": "string"
+                                  },
+                                  "source": {
+                                    "items": {
+                                      "properties": {
+                                        "elementer": {
+                                          "type": "number"
+                                        },
+                                        "name": {
+                                          "type": "string"
+                                        },
+                                        "produsertUtc": {
+                                          "type": "string"
+                                        },
+                                        "source": {
+                                          "items": {
+                                            "properties": {
+                                              "elementer": {
+                                                "type": "number"
+                                              },
+                                              "name": {
+                                                "type": "string"
+                                              },
+                                              "produsertUtc": {
+                                                "type": "string"
+                                              },
+                                              "source": {
+                                                "items": {
+                                                  "properties": {
+                                                    "elementer": {
+                                                      "type": "number"
+                                                    },
+                                                    "name": {
+                                                      "type": "string"
+                                                    },
+                                                    "produsertUtc": {
+                                                      "type": "string"
+                                                    },
+                                                    "source": {
+                                                      "items": {
+                                                        "properties": {
+                                                          "elementer": {
+                                                            "type": "number"
+                                                          },
+                                                          "name": {
+                                                            "type": "string"
+                                                          },
+                                                          "produsertUtc": {
+                                                            "type": "string"
+                                                          },
+                                                          "source": {
+                                                            "items": {},
+                                                            "type": "array"
+                                                          },
+                                                          "tittel": {
+                                                            "type": "string"
+                                                          },
+                                                          "tool": {
+                                                            "properties": {
+                                                              "commit": {
+                                                                "type": "string"
+                                                              },
+                                                              "name": {
+                                                                "type": "string"
+                                                              },
+                                                              "url": {
+                                                                "type": "string"
+                                                              }
+                                                            },
+                                                            "type": "object"
+                                                          },
+                                                          "url": {
+                                                            "type": "null"
+                                                          },
+                                                          "utgiver": {
+                                                            "type": "string"
+                                                          }
+                                                        },
+                                                        "required": [
+                                                          "name",
+                                                          "tittel",
+                                                          "produsertUtc",
+                                                          "utgiver",
+                                                          "url",
+                                                          "tool",
+                                                          "elementer",
+                                                          "source"
+                                                        ],
+                                                        "type": "object"
+                                                      },
+                                                      "type": "array"
+                                                    },
+                                                    "tittel": {
+                                                      "type": "string"
+                                                    },
+                                                    "tool": {
+                                                      "properties": {
+                                                        "commit": {
+                                                          "type": "string"
+                                                        },
+                                                        "name": {
+                                                          "type": "string"
+                                                        },
+                                                        "url": {
+                                                          "type": "string"
+                                                        }
+                                                      },
+                                                      "type": "object"
+                                                    },
+                                                    "url": {
+                                                      "type": "null"
+                                                    },
+                                                    "utgiver": {
+                                                      "type": "string"
+                                                    }
+                                                  },
+                                                  "required": [
+                                                    "name",
+                                                    "tittel",
+                                                    "produsertUtc",
+                                                    "utgiver",
+                                                    "url",
+                                                    "tool",
+                                                    "elementer",
+                                                    "source"
+                                                  ],
+                                                  "type": "object"
+                                                },
+                                                "type": "array"
+                                              },
+                                              "tittel": {
+                                                "type": "string"
+                                              },
+                                              "tool": {
+                                                "properties": {
+                                                  "commit": {
+                                                    "type": "string"
+                                                  },
+                                                  "name": {
+                                                    "type": "string"
+                                                  },
+                                                  "url": {
+                                                    "type": "string"
+                                                  }
+                                                },
+                                                "type": "object"
+                                              },
+                                              "url": {
+                                                "type": "null"
+                                              },
+                                              "utgiver": {
+                                                "type": "string"
+                                              }
+                                            },
+                                            "required": [
+                                              "name",
+                                              "tittel",
+                                              "produsertUtc",
+                                              "utgiver",
+                                              "url",
+                                              "tool",
+                                              "elementer",
+                                              "source"
+                                            ],
+                                            "type": "object"
+                                          },
+                                          "type": "array"
+                                        },
+                                        "tittel": {
+                                          "type": "string"
+                                        },
+                                        "tool": {
+                                          "properties": {
+                                            "commit": {
+                                              "type": "string"
+                                            },
+                                            "name": {
+                                              "type": "string"
+                                            },
+                                            "url": {
+                                              "type": "string"
+                                            }
+                                          },
+                                          "type": "object"
+                                        },
+                                        "url": {
+                                          "type": "null"
+                                        },
+                                        "utgiver": {
+                                          "type": "string"
+                                        }
+                                      },
+                                      "required": [
+                                        "name",
+                                        "tittel",
+                                        "produsertUtc",
+                                        "utgiver",
+                                        "url",
+                                        "tool",
+                                        "elementer",
+                                        "source"
+                                      ],
+                                      "type": "object"
+                                    },
+                                    "type": "array"
+                                  },
+                                  "tittel": {
+                                    "type": "string"
+                                  },
+                                  "tool": {
+                                    "properties": {
+                                      "commit": {
+                                        "type": "string"
+                                      },
+                                      "name": {
+                                        "type": "string"
+                                      },
+                                      "url": {
+                                        "type": "string"
+                                      }
+                                    },
+                                    "type": "object"
+                                  },
+                                  "url": {
+                                    "type": "null"
+                                  },
+                                  "utgiver": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "name",
+                                  "tittel",
+                                  "produsertUtc",
+                                  "utgiver",
+                                  "url",
+                                  "tool",
+                                  "elementer",
+                                  "source"
+                                ],
+                                "type": "object"
+                              },
+                              "type": "array"
+                            },
+                            "tittel": {
+                              "type": "string"
+                            },
+                            "tool": {
+                              "properties": {
+                                "commit": {
+                                  "type": "string"
+                                },
+                                "name": {
+                                  "type": "string"
+                                },
+                                "url": {
+                                  "type": "string"
+                                }
+                              },
+                              "type": "object"
+                            },
+                            "url": {
+                              "type": "null"
+                            },
+                            "utgiver": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "name",
+                            "tittel",
+                            "produsertUtc",
+                            "utgiver",
+                            "url",
+                            "tool",
+                            "elementer",
+                            "source"
+                          ],
+                          "type": "object"
+                        },
+                        "type": "array"
+                      },
+                      "tittel": {
+                        "type": "string"
+                      },
+                      "tool": {
+                        "properties": {
+                          "commit": {
+                            "type": "string"
+                          },
+                          "name": {
+                            "type": "string"
+                          },
+                          "url": {
+                            "type": "string"
+                          }
+                        },
+                        "type": "object"
+                      },
+                      "url": {
+                        "type": "null"
+                      },
+                      "utgiver": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "tittel",
+                      "produsertUtc",
+                      "utgiver",
+                      "url",
+                      "tool",
+                      "elementer",
+                      "source"
+                    ],
+                    "type": "object"
+                  },
+                  "type": "array"
+                },
+                "tittel": {
+                  "type": "string"
+                },
+                "tool": {
+                  "properties": {
+                    "commit": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string"
+                    }
+                  },
+                  "type": "object"
+                },
+                "url": {
+                  "type": "null"
+                },
+                "utgiver": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "name",
+                "tittel",
+                "produsertUtc",
+                "utgiver",
+                "url",
+                "tool",
+                "elementer",
+                "source"
+              ],
+              "type": "object"
+            },
+            "type": "array"
+          },
+          "tittel": {
+            "type": "string"
+          },
+          "tool": {
+            "properties": {
+              "commit": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string"
+              }
+            },
+            "type": "object"
+          },
+          "url": {
+            "type": "string"
+          },
+          "utgiver": {
+            "type": "string"
           }
         },
-        "elementer": {
-          "type": "number"
-        }
+        "type": "object"
       }
     },
-    "$schema": {
-      "type": "string"
-    }
+    "type": "object"
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2020-09-29T11:59:05.705Z",
+    "produsertUtc": "2020-10-05T12:34:18.607Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/natursystem/master/type.schema.json",
     "tool": {
       "name": "natursystem-lastejobb",
-      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme"
+      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
     },
-    "elementer": 3
+    "elementer": 3,
+    "source": [
+      {
+        "name": "url",
+        "tittel": "Url",
+        "produsertUtc": "2020-10-05T12:34:18.136Z",
+        "utgiver": "Artsdatabanken",
+        "url": null,
+        "tool": {
+          "name": "natursystem-lastejobb",
+          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+        },
+        "elementer": 4193,
+        "source": [
+          {
+            "name": "indexed_raster_indices",
+            "tittel": "Indexed raster indices",
+            "produsertUtc": "2020-10-05T12:34:17.855Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "natursystem-lastejobb",
+              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+            },
+            "elementer": 4193,
+            "source": [
+              {
+                "name": "flett",
+                "tittel": "Flett",
+                "produsertUtc": "2020-10-05T12:34:17.414Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "natursystem-lastejobb",
+                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                },
+                "elementer": 4193,
+                "source": [
+                  {
+                    "name": "ar_diagnostisk_art",
+                    "tittel": "Ar diagnostisk art",
+                    "produsertUtc": "2020-10-05T12:34:16.181Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 166,
+                    "source": [
+                      {
+                        "name": "typeinndeling",
+                        "tittel": "Typeinndeling",
+                        "produsertUtc": "2020-10-05T12:34:15.231Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 1796,
+                        "source": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "na_med_basistrinn_relasjon",
+                    "tittel": "Na med basistrinn relasjon",
+                    "produsertUtc": "2020-10-05T12:34:17.015Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 3694,
+                    "source": [
+                      {
+                        "name": "na_grunntype_til_lkm",
+                        "tittel": "Na grunntype til lkm",
+                        "produsertUtc": "2020-10-05T12:34:16.397Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 712,
+                        "source": [
+                          {
+                            "name": "na_grunntype_til_lkm.csv.json",
+                            "tittel": "Na grunntype til lkm.csv",
+                            "produsertUtc": "2020-10-05T12:34:15.606Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 736,
+                            "source": []
+                          },
+                          {
+                            "name": "typeinndeling",
+                            "tittel": "Typeinndeling",
+                            "produsertUtc": "2020-10-05T12:34:15.231Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 1796,
+                            "source": []
+                          },
+                          {
+                            "name": "na_mi_liste",
+                            "tittel": "Na mi liste",
+                            "produsertUtc": "2020-10-05T12:34:15.788Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 3694,
+                            "source": [
+                              {
+                                "name": "typeinndeling",
+                                "tittel": "Typeinndeling",
+                                "produsertUtc": "2020-10-05T12:34:15.231Z",
+                                "utgiver": "Artsdatabanken",
+                                "url": null,
+                                "tool": {
+                                  "name": "natursystem-lastejobb",
+                                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                },
+                                "elementer": 1796,
+                                "source": []
+                              },
+                              {
+                                "name": "mi_variasjon",
+                                "tittel": "Mi variasjon",
+                                "produsertUtc": "2020-10-05T12:34:14.518Z",
+                                "utgiver": "Artsdatabanken",
+                                "url": null,
+                                "tool": {
+                                  "name": "natursystem-lastejobb",
+                                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                },
+                                "elementer": 2898,
+                                "source": []
+                              },
+                              {
+                                "name": "na_overstyr_hierarki",
+                                "tittel": "Na overstyr hierarki",
+                                "produsertUtc": "2020-10-05T12:34:14.891Z",
+                                "utgiver": "Artsdatabanken",
+                                "url": null,
+                                "tool": {
+                                  "name": "natursystem-lastejobb",
+                                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                },
+                                "elementer": 851,
+                                "source": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "na_med_hovedtype_relasjon",
+                        "tittel": "Na med hovedtype relasjon",
+                        "produsertUtc": "2020-10-05T12:34:16.592Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 92,
+                        "source": [
+                          {
+                            "name": "na_hovedtype",
+                            "tittel": "Na hovedtype",
+                            "produsertUtc": "2020-10-05T12:34:14.698Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 92,
+                            "source": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "na_mi_liste",
+                        "tittel": "Na mi liste",
+                        "produsertUtc": "2020-10-05T12:34:15.788Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 3694,
+                        "source": [
+                          {
+                            "name": "typeinndeling",
+                            "tittel": "Typeinndeling",
+                            "produsertUtc": "2020-10-05T12:34:15.231Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 1796,
+                            "source": []
+                          },
+                          {
+                            "name": "mi_variasjon",
+                            "tittel": "Mi variasjon",
+                            "produsertUtc": "2020-10-05T12:34:14.518Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 2898,
+                            "source": []
+                          },
+                          {
+                            "name": "na_overstyr_hierarki",
+                            "tittel": "Na overstyr hierarki",
+                            "produsertUtc": "2020-10-05T12:34:14.891Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 851,
+                            "source": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "na_mi_liste",
+                    "tittel": "Na mi liste",
+                    "produsertUtc": "2020-10-05T12:34:15.788Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 3694,
+                    "source": [
+                      {
+                        "name": "typeinndeling",
+                        "tittel": "Typeinndeling",
+                        "produsertUtc": "2020-10-05T12:34:15.231Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 1796,
+                        "source": []
+                      },
+                      {
+                        "name": "mi_variasjon",
+                        "tittel": "Mi variasjon",
+                        "produsertUtc": "2020-10-05T12:34:14.518Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 2898,
+                        "source": []
+                      },
+                      {
+                        "name": "na_overstyr_hierarki",
+                        "tittel": "Na overstyr hierarki",
+                        "produsertUtc": "2020-10-05T12:34:14.891Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 851,
+                        "source": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "mi_variasjon",
+                    "tittel": "Mi variasjon",
+                    "produsertUtc": "2020-10-05T12:34:14.518Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 2898,
+                    "source": []
+                  },
+                  {
+                    "name": "na_prosedyrekategori",
+                    "tittel": "Na prosedyrekategori",
+                    "produsertUtc": "2020-10-05T12:34:15.974Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 17,
+                    "source": [
+                      {
+                        "name": "na_hovedtype",
+                        "tittel": "Na hovedtype",
+                        "produsertUtc": "2020-10-05T12:34:14.698Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 92,
+                        "source": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "na_definisjonsgrunnlag",
+                    "tittel": "Na definisjonsgrunnlag",
+                    "produsertUtc": "2020-10-05T12:34:15.413Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 20,
+                    "source": [
+                      {
+                        "name": "na_hovedtype",
+                        "tittel": "Na hovedtype",
+                        "produsertUtc": "2020-10-05T12:34:14.698Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 92,
+                        "source": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "natursystem-ubehandlet/type"
+                  },
+                  {
+                    "name": "natursystem-ubehandlet/Miljøvariabler/type"
+                  },
+                  {
+                    "name": "natursystem-ubehandlet/Beskrivelsessystem/Landform/type"
+                  },
+                  {
+                    "name": "natursystem-ubehandlet/Beskrivelsessystem/Regional_naturvariasjon/type"
+                  },
+                  {
+                    "name": "farger",
+                    "tittel": "Farger",
+                    "produsertUtc": "2020-10-05T12:34:16.818Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 92,
+                    "source": []
+                  }
+                ]
+              },
+              {
+                "name": "kodehierarki",
+                "tittel": "Kodehierarki",
+                "produsertUtc": "2020-10-05T12:34:17.644Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "natursystem-lastejobb",
+                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                },
+                "elementer": 2,
+                "source": [
+                  {
+                    "name": "flett",
+                    "tittel": "Flett",
+                    "produsertUtc": "2020-10-05T12:34:17.414Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 4193,
+                    "source": [
+                      {
+                        "name": "ar_diagnostisk_art",
+                        "tittel": "Ar diagnostisk art",
+                        "produsertUtc": "2020-10-05T12:34:16.181Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 166,
+                        "source": [
+                          {
+                            "name": "typeinndeling",
+                            "tittel": "Typeinndeling",
+                            "produsertUtc": "2020-10-05T12:34:15.231Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 1796,
+                            "source": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "na_med_basistrinn_relasjon",
+                        "tittel": "Na med basistrinn relasjon",
+                        "produsertUtc": "2020-10-05T12:34:17.015Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 3694,
+                        "source": [
+                          {
+                            "name": "na_grunntype_til_lkm",
+                            "tittel": "Na grunntype til lkm",
+                            "produsertUtc": "2020-10-05T12:34:16.397Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 712,
+                            "source": [
+                              {
+                                "name": "na_grunntype_til_lkm.csv.json",
+                                "tittel": "Na grunntype til lkm.csv",
+                                "produsertUtc": "2020-10-05T12:34:15.606Z",
+                                "utgiver": "Artsdatabanken",
+                                "url": null,
+                                "tool": {
+                                  "name": "natursystem-lastejobb",
+                                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                },
+                                "elementer": 736,
+                                "source": []
+                              },
+                              {
+                                "name": "typeinndeling",
+                                "tittel": "Typeinndeling",
+                                "produsertUtc": "2020-10-05T12:34:15.231Z",
+                                "utgiver": "Artsdatabanken",
+                                "url": null,
+                                "tool": {
+                                  "name": "natursystem-lastejobb",
+                                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                },
+                                "elementer": 1796,
+                                "source": []
+                              },
+                              {
+                                "name": "na_mi_liste",
+                                "tittel": "Na mi liste",
+                                "produsertUtc": "2020-10-05T12:34:15.788Z",
+                                "utgiver": "Artsdatabanken",
+                                "url": null,
+                                "tool": {
+                                  "name": "natursystem-lastejobb",
+                                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                },
+                                "elementer": 3694,
+                                "source": [
+                                  {
+                                    "name": "typeinndeling",
+                                    "tittel": "Typeinndeling",
+                                    "produsertUtc": "2020-10-05T12:34:15.231Z",
+                                    "utgiver": "Artsdatabanken",
+                                    "url": null,
+                                    "tool": {
+                                      "name": "natursystem-lastejobb",
+                                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                    },
+                                    "elementer": 1796,
+                                    "source": []
+                                  },
+                                  {
+                                    "name": "mi_variasjon",
+                                    "tittel": "Mi variasjon",
+                                    "produsertUtc": "2020-10-05T12:34:14.518Z",
+                                    "utgiver": "Artsdatabanken",
+                                    "url": null,
+                                    "tool": {
+                                      "name": "natursystem-lastejobb",
+                                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                    },
+                                    "elementer": 2898,
+                                    "source": []
+                                  },
+                                  {
+                                    "name": "na_overstyr_hierarki",
+                                    "tittel": "Na overstyr hierarki",
+                                    "produsertUtc": "2020-10-05T12:34:14.891Z",
+                                    "utgiver": "Artsdatabanken",
+                                    "url": null,
+                                    "tool": {
+                                      "name": "natursystem-lastejobb",
+                                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                    },
+                                    "elementer": 851,
+                                    "source": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "na_med_hovedtype_relasjon",
+                            "tittel": "Na med hovedtype relasjon",
+                            "produsertUtc": "2020-10-05T12:34:16.592Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 92,
+                            "source": [
+                              {
+                                "name": "na_hovedtype",
+                                "tittel": "Na hovedtype",
+                                "produsertUtc": "2020-10-05T12:34:14.698Z",
+                                "utgiver": "Artsdatabanken",
+                                "url": null,
+                                "tool": {
+                                  "name": "natursystem-lastejobb",
+                                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                },
+                                "elementer": 92,
+                                "source": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "na_mi_liste",
+                            "tittel": "Na mi liste",
+                            "produsertUtc": "2020-10-05T12:34:15.788Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 3694,
+                            "source": [
+                              {
+                                "name": "typeinndeling",
+                                "tittel": "Typeinndeling",
+                                "produsertUtc": "2020-10-05T12:34:15.231Z",
+                                "utgiver": "Artsdatabanken",
+                                "url": null,
+                                "tool": {
+                                  "name": "natursystem-lastejobb",
+                                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                },
+                                "elementer": 1796,
+                                "source": []
+                              },
+                              {
+                                "name": "mi_variasjon",
+                                "tittel": "Mi variasjon",
+                                "produsertUtc": "2020-10-05T12:34:14.518Z",
+                                "utgiver": "Artsdatabanken",
+                                "url": null,
+                                "tool": {
+                                  "name": "natursystem-lastejobb",
+                                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                },
+                                "elementer": 2898,
+                                "source": []
+                              },
+                              {
+                                "name": "na_overstyr_hierarki",
+                                "tittel": "Na overstyr hierarki",
+                                "produsertUtc": "2020-10-05T12:34:14.891Z",
+                                "utgiver": "Artsdatabanken",
+                                "url": null,
+                                "tool": {
+                                  "name": "natursystem-lastejobb",
+                                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                                },
+                                "elementer": 851,
+                                "source": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "na_mi_liste",
+                        "tittel": "Na mi liste",
+                        "produsertUtc": "2020-10-05T12:34:15.788Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 3694,
+                        "source": [
+                          {
+                            "name": "typeinndeling",
+                            "tittel": "Typeinndeling",
+                            "produsertUtc": "2020-10-05T12:34:15.231Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 1796,
+                            "source": []
+                          },
+                          {
+                            "name": "mi_variasjon",
+                            "tittel": "Mi variasjon",
+                            "produsertUtc": "2020-10-05T12:34:14.518Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 2898,
+                            "source": []
+                          },
+                          {
+                            "name": "na_overstyr_hierarki",
+                            "tittel": "Na overstyr hierarki",
+                            "produsertUtc": "2020-10-05T12:34:14.891Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 851,
+                            "source": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "mi_variasjon",
+                        "tittel": "Mi variasjon",
+                        "produsertUtc": "2020-10-05T12:34:14.518Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 2898,
+                        "source": []
+                      },
+                      {
+                        "name": "na_prosedyrekategori",
+                        "tittel": "Na prosedyrekategori",
+                        "produsertUtc": "2020-10-05T12:34:15.974Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 17,
+                        "source": [
+                          {
+                            "name": "na_hovedtype",
+                            "tittel": "Na hovedtype",
+                            "produsertUtc": "2020-10-05T12:34:14.698Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 92,
+                            "source": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "na_definisjonsgrunnlag",
+                        "tittel": "Na definisjonsgrunnlag",
+                        "produsertUtc": "2020-10-05T12:34:15.413Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 20,
+                        "source": [
+                          {
+                            "name": "na_hovedtype",
+                            "tittel": "Na hovedtype",
+                            "produsertUtc": "2020-10-05T12:34:14.698Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 92,
+                            "source": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "natursystem-ubehandlet/type"
+                      },
+                      {
+                        "name": "natursystem-ubehandlet/Miljøvariabler/type"
+                      },
+                      {
+                        "name": "natursystem-ubehandlet/Beskrivelsessystem/Landform/type"
+                      },
+                      {
+                        "name": "natursystem-ubehandlet/Beskrivelsessystem/Regional_naturvariasjon/type"
+                      },
+                      {
+                        "name": "farger",
+                        "tittel": "Farger",
+                        "produsertUtc": "2020-10-05T12:34:16.818Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 92,
+                        "source": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "kodehierarki",
+        "tittel": "Kodehierarki",
+        "produsertUtc": "2020-10-05T12:34:17.644Z",
+        "utgiver": "Artsdatabanken",
+        "url": null,
+        "tool": {
+          "name": "natursystem-lastejobb",
+          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+        },
+        "elementer": 2,
+        "source": [
+          {
+            "name": "flett",
+            "tittel": "Flett",
+            "produsertUtc": "2020-10-05T12:34:17.414Z",
+            "utgiver": "Artsdatabanken",
+            "url": null,
+            "tool": {
+              "name": "natursystem-lastejobb",
+              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+            },
+            "elementer": 4193,
+            "source": [
+              {
+                "name": "ar_diagnostisk_art",
+                "tittel": "Ar diagnostisk art",
+                "produsertUtc": "2020-10-05T12:34:16.181Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "natursystem-lastejobb",
+                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                },
+                "elementer": 166,
+                "source": [
+                  {
+                    "name": "typeinndeling",
+                    "tittel": "Typeinndeling",
+                    "produsertUtc": "2020-10-05T12:34:15.231Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 1796,
+                    "source": []
+                  }
+                ]
+              },
+              {
+                "name": "na_med_basistrinn_relasjon",
+                "tittel": "Na med basistrinn relasjon",
+                "produsertUtc": "2020-10-05T12:34:17.015Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "natursystem-lastejobb",
+                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                },
+                "elementer": 3694,
+                "source": [
+                  {
+                    "name": "na_grunntype_til_lkm",
+                    "tittel": "Na grunntype til lkm",
+                    "produsertUtc": "2020-10-05T12:34:16.397Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 712,
+                    "source": [
+                      {
+                        "name": "na_grunntype_til_lkm.csv.json",
+                        "tittel": "Na grunntype til lkm.csv",
+                        "produsertUtc": "2020-10-05T12:34:15.606Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 736,
+                        "source": []
+                      },
+                      {
+                        "name": "typeinndeling",
+                        "tittel": "Typeinndeling",
+                        "produsertUtc": "2020-10-05T12:34:15.231Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 1796,
+                        "source": []
+                      },
+                      {
+                        "name": "na_mi_liste",
+                        "tittel": "Na mi liste",
+                        "produsertUtc": "2020-10-05T12:34:15.788Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 3694,
+                        "source": [
+                          {
+                            "name": "typeinndeling",
+                            "tittel": "Typeinndeling",
+                            "produsertUtc": "2020-10-05T12:34:15.231Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 1796,
+                            "source": []
+                          },
+                          {
+                            "name": "mi_variasjon",
+                            "tittel": "Mi variasjon",
+                            "produsertUtc": "2020-10-05T12:34:14.518Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 2898,
+                            "source": []
+                          },
+                          {
+                            "name": "na_overstyr_hierarki",
+                            "tittel": "Na overstyr hierarki",
+                            "produsertUtc": "2020-10-05T12:34:14.891Z",
+                            "utgiver": "Artsdatabanken",
+                            "url": null,
+                            "tool": {
+                              "name": "natursystem-lastejobb",
+                              "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                              "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                            },
+                            "elementer": 851,
+                            "source": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "na_med_hovedtype_relasjon",
+                    "tittel": "Na med hovedtype relasjon",
+                    "produsertUtc": "2020-10-05T12:34:16.592Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 92,
+                    "source": [
+                      {
+                        "name": "na_hovedtype",
+                        "tittel": "Na hovedtype",
+                        "produsertUtc": "2020-10-05T12:34:14.698Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 92,
+                        "source": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "na_mi_liste",
+                    "tittel": "Na mi liste",
+                    "produsertUtc": "2020-10-05T12:34:15.788Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 3694,
+                    "source": [
+                      {
+                        "name": "typeinndeling",
+                        "tittel": "Typeinndeling",
+                        "produsertUtc": "2020-10-05T12:34:15.231Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 1796,
+                        "source": []
+                      },
+                      {
+                        "name": "mi_variasjon",
+                        "tittel": "Mi variasjon",
+                        "produsertUtc": "2020-10-05T12:34:14.518Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 2898,
+                        "source": []
+                      },
+                      {
+                        "name": "na_overstyr_hierarki",
+                        "tittel": "Na overstyr hierarki",
+                        "produsertUtc": "2020-10-05T12:34:14.891Z",
+                        "utgiver": "Artsdatabanken",
+                        "url": null,
+                        "tool": {
+                          "name": "natursystem-lastejobb",
+                          "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                          "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                        },
+                        "elementer": 851,
+                        "source": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "na_mi_liste",
+                "tittel": "Na mi liste",
+                "produsertUtc": "2020-10-05T12:34:15.788Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "natursystem-lastejobb",
+                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                },
+                "elementer": 3694,
+                "source": [
+                  {
+                    "name": "typeinndeling",
+                    "tittel": "Typeinndeling",
+                    "produsertUtc": "2020-10-05T12:34:15.231Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 1796,
+                    "source": []
+                  },
+                  {
+                    "name": "mi_variasjon",
+                    "tittel": "Mi variasjon",
+                    "produsertUtc": "2020-10-05T12:34:14.518Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 2898,
+                    "source": []
+                  },
+                  {
+                    "name": "na_overstyr_hierarki",
+                    "tittel": "Na overstyr hierarki",
+                    "produsertUtc": "2020-10-05T12:34:14.891Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 851,
+                    "source": []
+                  }
+                ]
+              },
+              {
+                "name": "mi_variasjon",
+                "tittel": "Mi variasjon",
+                "produsertUtc": "2020-10-05T12:34:14.518Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "natursystem-lastejobb",
+                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                },
+                "elementer": 2898,
+                "source": []
+              },
+              {
+                "name": "na_prosedyrekategori",
+                "tittel": "Na prosedyrekategori",
+                "produsertUtc": "2020-10-05T12:34:15.974Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "natursystem-lastejobb",
+                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                },
+                "elementer": 17,
+                "source": [
+                  {
+                    "name": "na_hovedtype",
+                    "tittel": "Na hovedtype",
+                    "produsertUtc": "2020-10-05T12:34:14.698Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 92,
+                    "source": []
+                  }
+                ]
+              },
+              {
+                "name": "na_definisjonsgrunnlag",
+                "tittel": "Na definisjonsgrunnlag",
+                "produsertUtc": "2020-10-05T12:34:15.413Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "natursystem-lastejobb",
+                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                },
+                "elementer": 20,
+                "source": [
+                  {
+                    "name": "na_hovedtype",
+                    "tittel": "Na hovedtype",
+                    "produsertUtc": "2020-10-05T12:34:14.698Z",
+                    "utgiver": "Artsdatabanken",
+                    "url": null,
+                    "tool": {
+                      "name": "natursystem-lastejobb",
+                      "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                      "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                    },
+                    "elementer": 92,
+                    "source": []
+                  }
+                ]
+              },
+              {
+                "name": "natursystem-ubehandlet/type"
+              },
+              {
+                "name": "natursystem-ubehandlet/Miljøvariabler/type"
+              },
+              {
+                "name": "natursystem-ubehandlet/Beskrivelsessystem/Landform/type"
+              },
+              {
+                "name": "natursystem-ubehandlet/Beskrivelsessystem/Regional_naturvariasjon/type"
+              },
+              {
+                "name": "farger",
+                "tittel": "Farger",
+                "produsertUtc": "2020-10-05T12:34:16.818Z",
+                "utgiver": "Artsdatabanken",
+                "url": null,
+                "tool": {
+                  "name": "natursystem-lastejobb",
+                  "url": "https://github.com/Artsdatabanken/natursystem-lastejobb#readme",
+                  "commit": "https://github.com/Artsdatabanken/natursystem-lastejobb/master/feeaaa91acb1072aa9ca062080d7a6f50b36d94d"
+                },
+                "elementer": 92,
+                "source": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }
